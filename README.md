@@ -1,4 +1,4 @@
-#### [CART253](/cart253/) | [Schedule](/cart253/course-information/schedule) | [Guides](/cart253/guides/) | [Examples](/cart253/examples/)
+#### [CART253](/cart253/) | [Schedule](/cart253/course-information/schedule.md) | [Guides](/cart253/guides/) | [Examples](/cart253/examples/)
 
 # CART 315 - Game Prototyping - Winter 2024
 
@@ -12,7 +12,7 @@ Matthew Bethancourt
 ## Course Information
 
 * [Outline](course-information/outline.md)
-* [Schedule](course-information/schedule)
+* [Schedule](course-information/schedule.md)
 * [Resources](course-information/resources.md)
 
 
