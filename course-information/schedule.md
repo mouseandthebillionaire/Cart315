@@ -15,7 +15,13 @@
 
 ### Material from Class
 * [Slides](../classSlides/cart315_introduction.pdf)
-* Tiny Game Examples (to come)
+* Tiny Game Examples
+	* [Disposal](https://xerrf.itch.io/disposal)
+	* [Bloom](https://petroochio.itch.io/bloom)
+	* [Worm Journey]([https://kajhar.itch.io/worm-journey](https://kajhar.itch.io/worm-journey)
+	* [Turtle Town 2.0](https://invisii.itch.io/turtle-town-2)
+	* [Tesla AI Training Tool]([https://harrison-b.itch.io/tesla-ai-training-tool](https://harrison-b.itch.io/tesla-ai-training-tool)
+	
 
 ## Week 2
 
