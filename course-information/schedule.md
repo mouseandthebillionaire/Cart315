@@ -13,6 +13,10 @@
   * Bitsy
 * Assignment introduction: Make a thing!
 
+### Material from Class
+* [Slides](../classSlides/cart315_introduction.pdf)
+* Tiny Game Examples (to come)
+
 ## Week 2
 
 ### Prep Material
