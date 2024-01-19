@@ -18,9 +18,9 @@
 * Tiny Game Examples
 	* [Disposal](https://xerrf.itch.io/disposal)
 	* [Bloom](https://petroochio.itch.io/bloom)
-	* [Worm Journey]([https://kajhar.itch.io/worm-journey)
+	* [Worm Journey](https://kajhar.itch.io/worm-journey)
 	* [Turtle Town 2.0](https://invisii.itch.io/turtle-town-2)
-	* [Tesla AI Training Tool]([https://harrison-b.itch.io/tesla-ai-training-tool)
+	* [Tesla AI Training Tool](https://harrison-b.itch.io/tesla-ai-training-tool)
 	
 	
 
