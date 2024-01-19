@@ -111,7 +111,3 @@
 
 * Assignment introduction: Project finalization
 
-## Session 13: ??? Final Presentations
-
-Iterative prototype playtest notes & reflections due
-Final project presentations (12%)

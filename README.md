@@ -7,7 +7,7 @@
 Matthew Bethancourt
 * [matthew.bethancourt@concordia.ca](mailto:matthew.bethancourt@concordia.ca)  
 * [mouseandthebillionaire.com](http://www.mouseandthebillionaire.com/)  
-* Office hours: Wednesdays, 11:00-12:00 (on Discord)
+* Office hours: Tuesdays, 12h00-13h00 (on Discord)
 
 ## Course Information
 
