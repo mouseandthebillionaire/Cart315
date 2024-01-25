@@ -36,6 +36,11 @@
 * Unity basics 1
 * Collector Game
 
+### Material from Class
+- [NYU Game Center's GitConfig template](https://github.com/NYUGameCenter/Unity-Git-Config)
+- [gitignore example](https://github.com/mouseandthebillionaire/Cart315/blob/main/.gitignore)
+- [MDM information](https://www.gamesasresearch.com/mdm)
+
 ## Week 3
 
 ### Prep Material
