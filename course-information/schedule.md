@@ -129,5 +129,5 @@
 
 ## Session 12: April 11
 
-* Assignment introduction: Project finalization
+* Final Project Presentations
 

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Process/Journal.md",
+                "file": "course-information/projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2273e37314822899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "course-information/schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Process/Journal.md",
+                "file": "course-information/projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Process/Journal.md",
+                "file": "course-information/projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process/Journal.md"
+                "file": "course-information/projects.md"
               }
             }
           }
@@ -149,16 +161,19 @@
   "active": "1a1e080bca3bbd7b",
   "lastOpenFiles": [
     "course-information/schedule.md",
-    "examples/fallingAsleep/Library/ProtocolInstance.json",
-    "examples/fallingAsleep/Temp/ADB-Refresh3b0d277405224426cb06bebabb66667f",
-    "examples/fallingAsleep/Library/Bee/backend_profiler0.traceevents",
-    "examples/fallingAsleep/Library/Bee/TundraBuildState.state",
-    "examples/fallingAsleep/Library/Artifacts/fc/fcdf0bc469146b4518bed58520dd5bac",
-    "examples/fallingAsleep/Temp/ADB-Refresh7e34343b832ca42898cb7754046ca49b",
-    "examples/fallingAsleep/Library/Artifacts/4f/4f6bd0928d7ef9a7aac21a181c56e81e",
-    "examples/fallingAsleep/Temp/ADB-Refreshda6e2282f474941d6b7a164fc9f41436",
-    "examples/fallingAsleep/Library/Artifacts/cd/cd0941865c2a71341447f649b03931e9",
-    "examples/fallingAsleep/Library/Artifacts/62/629f674967fe4b4b7b4609adf82e2bb2",
+    "course-information/projects.md",
+    "examples/pawngTemplate/UserSettings/Layouts/default-2021.dwlt",
+    "examples/pawngTemplate/Assets/Sprites/paddle.png.meta",
+    "examples/pawngTemplate/Assets/Sprites/paddle.png",
+    "examples/pawngTemplate/Assets/Sprites/ball.png.meta",
+    "examples/pawngTemplate/Assets/Sprites/ball.png",
+    "examples/pawngTemplate/Assets/Scripts/PaddleScript.cs.meta",
+    "examples/pawngTemplate/Assets/Scripts/PaddleScript.cs",
+    "examples/pawngTemplate/Assets/Scripts/BallScript.cs.meta",
+    "examples/pawngTemplate/Assets/Scripts/BallScript.cs",
+    "examples/pawngTemplate/Assets/Scenes/MainSettings.lighting.meta",
+    "examples/pawngTemplate/Assets/Scenes/MainSettings.lighting",
+    "examples/pawngTemplate/Assets/Scenes/Main.unity.meta",
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Shared/EditorAssetResources/SplitButtonArrow.png",
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/IconMap/VariablesSaver@32x.png",
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/IconMap/VariablesAsset@32.png",
@@ -167,8 +182,6 @@
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/IconMap/StateMachine@32x.png",
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/IconMap/State@32x.png",
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/IconMap/SceneVariables.png",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/IconMap/GlobalMessageListener@32x.png",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/IconMap/FlowMachine@32x.png",
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-version-control.md",
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-variables.md",
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-variables-reference.md",
@@ -192,7 +205,6 @@
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-nulls.md",
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-nodes.md",
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-nodes-reference.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-live.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-live-edit-runtime.md"
+    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-live.md"
   ]
 }
