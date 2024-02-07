@@ -823,9 +823,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46a40fc7366874ab487378f3236086af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballSpeed: 2
-  maxSpeed: 10
-  minSpeed: 2
+  ballSpeed: 4
+  maxSpeed: 15
+  minSpeed: 4
   scoreSound: {fileID: 0}
   blip: {fileID: 939176152}
   leftPlayerScore: 0

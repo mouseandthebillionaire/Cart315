@@ -27,7 +27,7 @@ public class BallScript : MonoBehaviour
 
 
     // Start the Ball Moving
-    public IEnumerator Launch() {
+    private IEnumerator Launch() {
         yield return new WaitForSeconds(1.5f);
         
         // Figure out directions
@@ -38,9 +38,11 @@ public class BallScript : MonoBehaviour
         rb.AddForce(transform.right * ballSpeed * hDir); // Randomly go Left or Right
         // Add a vertical force
         rb.AddForce(transform.up * ballSpeed * vDir); // Randomly go Up or Down
+        
+        yield return null;
     }
 
-    private void Reset() {
+    public void Reset() {
         rb.velocity = Vector2.zero;
         ballSpeed = 2;
         transform.position = new Vector2(0, -2);
@@ -50,6 +52,8 @@ public class BallScript : MonoBehaviour
     // if the ball goes out of bounds
     private void OnCollisionEnter2D(Collision2D other)
     {
+        
+        
         // did we hit a wall?
         if (other.gameObject.tag == "Wall")
         {
@@ -86,11 +90,20 @@ public class BallScript : MonoBehaviour
     private void SpeedCheck() {
         
         // Prevent ball from going too fast
-        if (Mathf.Abs(rb.velocity.x) > maxSpeed) rb.velocity = new Vector2(rb.velocity.x * 0.9f, rb.velocity.y);
-        if (Mathf.Abs(rb.velocity.y) > maxSpeed) rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y * 0.9f);
+        if (Mathf.Abs(rb.velocity.x) > maxSpeed) rb.velocity = new Vector2(rb.velocity.x * 0.99f, rb.velocity.y);
+        if (Mathf.Abs(rb.velocity.y) > maxSpeed) rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y * 0.99f);
 
-        if (Mathf.Abs(rb.velocity.x) < minSpeed) rb.velocity = new Vector2(rb.velocity.x * 1.1f, rb.velocity.y);
-        if (Mathf.Abs(rb.velocity.y) < minSpeed) rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y * 1.1f);
+        if (Mathf.Abs(rb.velocity.x) < minSpeed)
+        {
+            Debug.Log("too slow?");
+            rb.velocity = new Vector2(rb.velocity.x * 1.1f, rb.velocity.y);
+        }
+
+        if (Mathf.Abs(rb.velocity.y) < minSpeed)
+        {
+            Debug.Log("too slow?");
+            rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y * 1.1f);
+        }
 
 
         // Prevent too shallow of an angle
