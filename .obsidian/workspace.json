@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "course-information/projects.md",
+                "file": "course-information/schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "course-information/projects.md",
+                "file": "course-information/schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "course-information/projects.md"
+                "file": "course-information/schedule.md"
               }
             }
           }
@@ -158,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a1e080bca3bbd7b",
+  "active": "2273e37314822899",
   "lastOpenFiles": [
-    "course-information/schedule.md",
     "course-information/projects.md",
+    "course-information/schedule.md",
+    "course-information/outline.md",
     "examples/pawngTemplate/UserSettings/Layouts/default-2021.dwlt",
     "examples/pawngTemplate/Assets/Sprites/paddle.png.meta",
     "examples/pawngTemplate/Assets/Sprites/paddle.png",
@@ -204,7 +206,6 @@
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-open-graph-edit.md",
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-nulls.md",
     "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-nodes.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-nodes-reference.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-live.md"
+    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-nodes-reference.md"
   ]
 }
