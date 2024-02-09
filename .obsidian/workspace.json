@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a1e080bca3bbd7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "course-information/projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2273e37314822899",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "course-information/schedule.md",
+                "file": "Process/Journal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "course-information/schedule.md",
+                "file": "Process/Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "course-information/schedule.md",
+                "file": "Process/Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "course-information/schedule.md"
+                "file": "Process/Journal.md"
               }
             }
           }
@@ -161,51 +148,51 @@
   },
   "active": "2273e37314822899",
   "lastOpenFiles": [
-    "course-information/projects.md",
+    "examples/pawngTemplate/Temp/UnityTempFile-64612856bc04d463fac14a232206e29d",
+    "examples/pawngTemplate/Temp/ADB-Refreshd2c27eff870bd4594a63c5fa822c3a96",
     "course-information/schedule.md",
-    "course-information/outline.md",
-    "examples/pawngTemplate/UserSettings/Layouts/default-2021.dwlt",
-    "examples/pawngTemplate/Assets/Sprites/paddle.png.meta",
-    "examples/pawngTemplate/Assets/Sprites/paddle.png",
-    "examples/pawngTemplate/Assets/Sprites/ball.png.meta",
-    "examples/pawngTemplate/Assets/Sprites/ball.png",
-    "examples/pawngTemplate/Assets/Scripts/PaddleScript.cs.meta",
-    "examples/pawngTemplate/Assets/Scripts/PaddleScript.cs",
-    "examples/pawngTemplate/Assets/Scripts/BallScript.cs.meta",
-    "examples/pawngTemplate/Assets/Scripts/BallScript.cs",
-    "examples/pawngTemplate/Assets/Scenes/MainSettings.lighting.meta",
-    "examples/pawngTemplate/Assets/Scenes/MainSettings.lighting",
-    "examples/pawngTemplate/Assets/Scenes/Main.unity.meta",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Shared/EditorAssetResources/SplitButtonArrow.png",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/IconMap/VariablesSaver@32x.png",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/IconMap/VariablesAsset@32.png",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/IconMap/Variables@32x.png",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/IconMap/UnityMessageListener@32x.png",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/IconMap/StateMachine@32x.png",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/IconMap/State@32x.png",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/IconMap/SceneVariables.png",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-version-control.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-variables.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-variables-reference.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-variables-api.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-using-custom-types.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-update.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-types.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-transitions.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-time.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-subgraphs.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-states-reference.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-state-unit-nodes.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-state-graphs-intro.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-set-preferences.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-self.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-scripts-reference.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-relations.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-script-graphs-intro.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-refactoring.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-open-graph-edit.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-nulls.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-nodes.md",
-    "examples/SampleUnityProject/Library/PackageCache/com.unity.visualscripting@1.7.6/Documentation~/vs-nodes-reference.md"
+    "examples/pawngTemplate/Library/ProtocolInstance.json",
+    "examples/pawngTemplate/Temp/UnityTempFile-245155034bc0341d1a064119906b5522",
+    "examples/pawngTemplate/Temp/ADB-Refreshdf2433c66684045a3bd99582c344cee0",
+    "examples/pawngTemplate/Library/StateCache/SceneView/8b/8b3ad15c834d7c086f5246a7241600ca.json",
+    "examples/pawngTemplate/Library/StateCache/SceneView/8b",
+    "examples/pawngTemplate/Library/StateCache/MainStageHierarchy/67/67a23e9a55dff742bf9f7899e796e342.json",
+    "examples/pawngTemplate/Library/StateCache/MainStageHierarchy/67",
+    "examples/pawngTemplate/Library/Bee/backend_profiler0.traceevents",
+    "examples/pawngTemplate/Library/Bee/TundraBuildState.state",
+    "examples/pawngTemplate/Assets/Scripts/hearts.png",
+    "course-information/resources.md",
+    "examples/pawngTemplate/Assets/Sprites/hi.png",
+    "examples/pawngTemplate/Assets/Sprites/paddle copy.png",
+    "examples/pawngTemplate/Assets/Sprites/brick.png",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/images/burst_aot_settings.png",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/images/burst-noalias.png",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/images/burst-noalias-vectorized.png",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/images/burst-menu.png",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/images/burst-inspector.png",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/images/burst-alias.png",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/docs/Warnings.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/docs/StandalonePlayerSupport.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/docs/QuickStart.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/docs/OptimizationGuidelines-Aliasing.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/docs/Presentations.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/docs/OptimizationGuidelines.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/docs/ModdingSupport.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/docs/KnownIssues.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/docs/DebuggingAndProfiling.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/docs/CSharpLanguageSupport_Types.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/docs/CSharpLanguageSupport_BurstIntrinsics.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/docs/CSharpLanguageSupport_Lang.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/docs/CSharpLanguageSupport_Intrinsics.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/docs/AdvancedUsages.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/index.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Documentation~/TableOfContents.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/Third Party Notices.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/LICENSE.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/CHANGELOG.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.collab-proxy@1.15.13/Editor/Collaborate/Assets/Icons/README.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.collab-proxy@1.15.13/Editor/Collaborate/Views/README.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.collab-proxy@1.15.13/Editor/Collaborate/Utilities/README.md",
+    "examples/pawngTemplate/Library/PackageCache/com.unity.collab-proxy@1.15.13/Editor/Collaborate/UserInterface/README.md"
   ]
 }
