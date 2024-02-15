@@ -1,5 +1,9 @@
 # Weekly Class Journal
 
+## Notes for Class 5
+
+[visable text](http://www.apple.com)
+
 ## Notes for Class 4
 
 Some reflections on tonight's sessions:
