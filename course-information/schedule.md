@@ -87,7 +87,6 @@
 * Design Journal: Game Analysis - Find a game that you know well or are interested by. What decisions have the designers made that cause the game to be interesting? Where have they failed? Think mechanically rather than thematically. What ideas/methods/techniques do you think you could borrow for future projects?
 
 ### Class Session 5: February 15
-* Debugging Practicum
 * Topic: Playtesting
 * In-class playtests
 
@@ -104,7 +103,14 @@
 
 ## February 26 - March 3: Reading Week | No Class
 
-## Session 7: March 7
+## Week 7
+
+### Prep Materials
+* Design Journal: Conceptualizing - Journal about your ideation process. Include any Design Values, Precedents, and your 3 favourite ideas. These don't have to be very detailed, just a few sentences to capture the main game concept.
+
+### Class Session: March 7
+* Debugging Practicum
+* Topic: Playtesting
 * Exploration Prototype 1
 * In-class playtests
 

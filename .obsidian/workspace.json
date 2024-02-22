@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Process/Journal.md",
+                "file": "course-information/schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Process/Journal.md",
+                "file": "course-information/schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Process/Journal.md",
+                "file": "course-information/schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process/Journal.md"
+                "file": "course-information/schedule.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "2273e37314822899",
   "lastOpenFiles": [
-    "course-information/schedule.md",
     "Process/Journal.md",
+    "course-information/schedule.md",
     "examples/pawngTemplate/Temp/UnityTempFile-64612856bc04d463fac14a232206e29d",
     "examples/pawngTemplate/Temp/ADB-Refreshd2c27eff870bd4594a63c5fa822c3a96",
     "examples/pawngTemplate/Library/ProtocolInstance.json",
