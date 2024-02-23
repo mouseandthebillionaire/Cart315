@@ -110,12 +110,15 @@
 
 ### Class Session: March 7
 * Debugging Practicum
-* Topic: Playtesting
+* Topic: Prototyping
 * Exploration Prototype 1
 * In-class playtests
 
-## Session 8: March 14
+## Week 8
 
+### Prep Materials
+### Class Session: March 14
+* Topic: Playtesting
 * Exploration Prototype 2
 * In-class playtests
 
