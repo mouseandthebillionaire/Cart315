@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4aef6c38c5fd6c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "course-information/schedule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2273e37314822899",
+  "active": "4aef6c38c5fd6c12",
   "lastOpenFiles": [
+    "classSlides/cart315_prototyping.pdf",
     "classSlides/cart315_conceptualizing.pdf",
     "Process/Journal.md",
     "course-information/schedule.md",
@@ -160,7 +174,6 @@
     "examples/pawngTemplate/Library/StateCache/SceneView/8b",
     "examples/pawngTemplate/Library/StateCache/MainStageHierarchy/67/67a23e9a55dff742bf9f7899e796e342.json",
     "examples/pawngTemplate/Library/StateCache/MainStageHierarchy/67",
-    "examples/pawngTemplate/Library/Bee/backend_profiler0.traceevents",
     "examples/pawngTemplate/Assets/Scripts/hearts.png",
     "course-information/resources.md",
     "examples/pawngTemplate/Assets/Sprites/hi.png",

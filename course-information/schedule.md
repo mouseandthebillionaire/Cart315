@@ -117,6 +117,8 @@
 ## Week 8
 
 ### Prep Materials
+- Design Journal: Prototyping Stage 1 - Journal about the first stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype?What fidelity levels are you dealing with? What did you learn and what are the next steps?
+- Go through a second stage of prototypes to test with friends and family. From this you will build an initial Iterative Prototype that, along with a journal entry, will be due on Week 9.
 ### Class Session: March 14
 * Topic: Playtesting
 * Exploration Prototype 2
