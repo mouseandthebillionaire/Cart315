@@ -120,26 +120,29 @@
 - Design Journal: Prototyping Stage 1 - Journal about the first stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype?What fidelity levels are you dealing with? What did you learn and what are the next steps?
 - Go through a second stage of prototypes to test with friends and family. From this you will build an initial Iterative Prototype that, along with a journal entry, will be due on Week 9.
 ### Class Session: March 14
-* Topic: Playtesting
+- (Asynchronous due to Student Strike)
 * Exploration Prototype 2
-* In-class playtests
 
-## Session 9: March 21
-
+## Week 9
+### Prep Materials
+- Design Journal: Prototyping Stage 2 - Document where you are at this point in your prototyping process
+### Class Session: March 21 
+* Topic: Playtesting
 * Iterative Prototype 1
-* In-class playtests
 
-## Session 10: March 28
-
+## Week 10
+### Prep Materials
+- Design Journal: Prototyping Stage 3 - Document where you are at this point in your prototyping process
+### Class Session: April 4
+- (Asynchronous)
+- Topic: Presentations?
 * Iterative Prototype 2
-* In-class playtests
 
-## Session 11: April 4
+## Week 11
+### Prep Materials
+- Design Journal: Prototyping Stage 4 - Document and reflect on the entire design process
+### Class Session: April 11
+- Project Presentations / Playday
 
-* Iterative Prototype 3
-* In-class playtests
-
-## Session 12: April 11
-
-* Final Project Presentations
-
+## Week 12: Make-Up Class
+### Class Session: TBD

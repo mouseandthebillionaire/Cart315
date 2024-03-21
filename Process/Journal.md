@@ -1,5 +1,16 @@
 # Weekly Class Journal
 
+## Notes for Class 8
+
+Somehow we're already on week 8? The student strike seems to have really thrown a bit of a wrench in the effectiveness of this class this semester. Though really once you get the whole notion of:
+- pose a question
+- build an iteration/prototype to answer the question
+- test
+- reflect and journal about the process
+there isn't a lot of hand-holding / face-time that *needs* to happen. But it's still nice. A few students came in to the Discord for the class to ask some questions, but they are definitely in the "how do I?" vs. the "how *would* I?" camp.
+
+Which brings up the notion of how to best communicate the overall idea of the prototype. *how do I* VS. *how should/would I* is actually kind of compelling, but there's probably even better ways to get the students in the mindset of testing whether a given idea has legs. Something to keep mulling over!
+
 ## Notes for Class 5
 
 [visable text](http://www.apple.com)
