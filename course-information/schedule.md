@@ -133,16 +133,21 @@
 ## Week 10
 ### Prep Materials
 - Design Journal: Prototyping Stage 3 - Document where you are at this point in your prototyping process
-### Class Session: April 4
+### Class Session: March 28
 - (Asynchronous)
-- Topic: Presentations?
 * Iterative Prototype 2
 
 ## Week 11
 ### Prep Materials
 - Design Journal: Prototyping Stage 4 - Document and reflect on the entire design process
+### Class Session: April 4
+- Topic: Presentations
+
+## Week 12
+### Prep Materials
+- Design Journal: Final Stage (reminder: this material will be in your presentation also!)
 ### Class Session: April 11
 - Project Presentations / Playday
 
 ## Week 12: Make-Up Class
-### Class Session: TBD
+### Class Session: April 17
