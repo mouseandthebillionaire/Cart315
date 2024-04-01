@@ -1,5 +1,9 @@
 # Weekly Class Journal
 
+## Notes for Class 9
+
+Question (based on a revelation I had while speaking in front of the class today): If this class is a "prototyping" class, then the evaluations should evaluate prototyping. We do these game design / development classes, and then we evaluate the *game* rather than the designer/developer. 
+
 ## Notes for Class 8
 
 Somehow we're already on week 8? The student strike seems to have really thrown a bit of a wrench in the effectiveness of this class this semester. Though really once you get the whole notion of:
