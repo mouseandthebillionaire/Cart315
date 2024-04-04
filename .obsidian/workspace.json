@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "course-information/resources.md",
+                "file": "course-information/schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "course-information/resources.md",
+                "file": "course-information/schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "course-information/resources.md",
+                "file": "course-information/schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "course-information/resources.md"
+                "file": "course-information/schedule.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "4d764514f01a3e0d",
   "lastOpenFiles": [
+    "classSlides/cart315_pitching.pdf",
+    "course-information/resources.md",
     "examples/pineScooper_Debug.zip",
     "course-information/outline.md",
     "course-information/schedule.md",
@@ -186,9 +188,7 @@
     "examples/pawngTemplate/Temp/ADB-Refreshdf2433c66684045a3bd99582c344cee0",
     "examples/pawngTemplate/Library/StateCache/SceneView/8b/8b3ad15c834d7c086f5246a7241600ca.json",
     "examples/pawngTemplate/Library/StateCache/SceneView/8b",
-    "examples/pawngTemplate/Library/StateCache/MainStageHierarchy/67/67a23e9a55dff742bf9f7899e796e342.json",
     "examples/pawngTemplate/Assets/Scripts/hearts.png",
-    "course-information/resources.md",
     "examples/pawngTemplate/Assets/Sprites/hi.png",
     "examples/pawngTemplate/Assets/Sprites/paddle copy.png",
     "examples/pawngTemplate/Assets/Sprites/brick.png",

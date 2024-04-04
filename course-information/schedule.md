@@ -142,6 +142,8 @@
 - Design Journal: Prototyping Stage 4 - Document and reflect on the entire design process
 ### Class Session: April 4
 - Topic: Presentations
+### Materials from Class
+- [Slides](../classSlides/cart315_pitching.pdf)
 
 ## Week 12
 ### Prep Materials
