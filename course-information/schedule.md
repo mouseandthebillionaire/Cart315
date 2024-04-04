@@ -144,6 +144,7 @@
 - Topic: Presentations
 ### Materials from Class
 - [Slides](../classSlides/cart315_pitching.pdf)
+- [Pitch Template (pdf)](../classSlides/cart315_pitchTemplate.pdf)
 
 ## Week 12
 ### Prep Materials
