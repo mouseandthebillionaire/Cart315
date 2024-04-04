@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d764514f01a3e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "course-information/resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "course-information/schedule.md",
+                "file": "course-information/resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "course-information/schedule.md",
+                "file": "course-information/resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "course-information/schedule.md"
+                "file": "course-information/resources.md"
               }
             }
           }
@@ -159,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "306efe8ed7180f8f",
+  "active": "4d764514f01a3e0d",
   "lastOpenFiles": [
+    "examples/pineScooper_Debug.zip",
     "course-information/outline.md",
     "course-information/schedule.md",
     "Process/Journal.md",
@@ -205,7 +218,6 @@
     "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/LICENSE.md",
     "examples/pawngTemplate/Library/PackageCache/com.unity.burst@1.6.4/CHANGELOG.md",
     "examples/pawngTemplate/Library/PackageCache/com.unity.collab-proxy@1.15.13/Editor/Collaborate/Assets/Icons/README.md",
-    "examples/pawngTemplate/Library/PackageCache/com.unity.collab-proxy@1.15.13/Editor/Collaborate/Views/README.md",
-    "examples/pawngTemplate/Library/PackageCache/com.unity.collab-proxy@1.15.13/Editor/Collaborate/Utilities/README.md"
+    "examples/pawngTemplate/Library/PackageCache/com.unity.collab-proxy@1.15.13/Editor/Collaborate/Views/README.md"
   ]
 }

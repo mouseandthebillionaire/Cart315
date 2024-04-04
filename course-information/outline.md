@@ -73,8 +73,8 @@ Specific evaluation requirements will be provided when assigned.
 * Debugging Practicum @ 10%
 * Exploration Prototypes (2) @ 5% each / 10% total
 * Iterative Prototypes (2) @ 5% each / 10% total
-* Playtests (4) @ 5% each / 20% total
-* Final Game and Presentation @ 15%
+* Playtests (2) @ 5% each / 10% total
+* Final Game and Presentation @ 25%
 * Weekly Design Journal @ 15%
 
 ## Accessibility & Inclusion
