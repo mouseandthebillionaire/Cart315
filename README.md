@@ -1,6 +1,6 @@
-#### [CART253](/cart253/) | [Schedule](/cart253/course-information/schedule.md) | [Guides](/cart253/guides/) | [Examples](/cart253/examples/)
+#### [CART315](/cart315/) | [Schedule](course-information/schedule.md) | [Examples](examples/) | [Resources](course-information/examples/)
 
-# CART 315 - Game Prototyping - Winter 2024
+# CART 315 - Game Prototyping - Winter 2025
 
 ## Instructor
 

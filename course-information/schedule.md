@@ -1,18 +1,19 @@
 #### [CART315](../cart315/) | [Schedule](schedule.md) | [Projects](projects.md) | [Resources](resources.md)
 
 # Course Schedule
+_note: this schedule is subject to change_
 
 ## Week 1
 
-### Class Session: January 18
+### Class Session: January 16
 * Class intro and syllabus
-* Topic: Scoping
+* Topic: A (Somewhat) Short History of Video Games / Scoping
 * Tools demonstration
-  * Twine
-  * Ink
-  * Bitsy
-* Assignment introduction: Make a thing!
-
+	* Twine
+	* Ink
+	* Bitsy
+* Assignment introduction: Make a Thing!
+* Introduction to MDM (if there is time)
 ### Material from Class
 * [Slides](../classSlides/cart315_introduction.pdf)
 * Tiny Game Examples
@@ -21,17 +22,16 @@
 	* [Worm Journey](https://kajhar.itch.io/worm-journey)
 	* [Turtle Town 2.0](https://invisii.itch.io/turtle-town-2)
 	* [Tesla AI Training Tool](https://harrison-b.itch.io/tesla-ai-training-tool)
-	
-	
 
 ## Week 2
 
 ### Prep Material
 * Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapters 16-19
 * Watch: [Getting Started with Unity](https://learn.unity.com/mission/real-time-creation-essentials?pathwayId=5f7bcab4edbc2a0023e9c38f) from Unity Learn
-
-### Class Session: January 25
-* Assignment presentations
+### Design Journal
+- Make a Thing, design goals
+### Class Session: January 23
+* Make a Thing play session and Journal discussion
 * Intro to source control with Git & Github
 * Unity basics 1
 * Collector Game
@@ -41,6 +41,7 @@
 - [gitignore example](https://github.com/mouseandthebillionaire/Cart315/blob/main/.gitignore)
 - [MDM information](https://www.gamesasresearch.com/mdm)
 
+<!--
 ## Week 3
 
 ### Prep Material
@@ -154,3 +155,4 @@
 
 ## Week 12: Make-Up Class
 ### Class Session: April 17
+-->

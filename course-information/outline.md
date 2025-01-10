@@ -1,6 +1,6 @@
 #### [CART315](../cart315/) | [Schedule](schedule.md) | [Projects](projects.md) | [Resources](resources.md)
 
-# CART 315: Game Prototyping – Winter 2024 – 3 credits
+# CART 315: Game Prototyping – Winter 2025 – 3 credits
 
 Thursdays, 17:45 – 21:45 in EV 5.615
 Instructor: Matthew Bethancourt | [matthew.bethancourt@concordia.ca](mailto:matthew.bethancourt@concordia.ca)
@@ -29,14 +29,14 @@ After completing this course, students should be able to:
 ## Course Materials
 
 * [Introduction to Game Design, Prototyping, and Development](https://concordiauniversity.on.worldcat.org/oclc/1340042737) by [Jeremy Gibson Bond](https://book.prototools.net/)
-* [Unity Version 2020.3.xx LTS](https://unity3d.com/get-unity/download)
+* [Unity Version 6 (6000.0.xx LTS)](https://unity.com/releases/editor/archive)
 * [Rider](https://www.jetbrains.com/rider/) (which you can get a free student license for) or another code editor 
 * [Github Desktop](https://desktop.github.com/) or a git client you are familiar with
 * The [Discord](https://discord.com/) Client
 
 ## Assignments and Class Structure
 
-This course will be an organic mix of lecture and practice with the professor working to explain the concepts, give examples, and also oversee how well students grasp the concepts discussed as they work on assigned projects. There will be multiple game programming exercises, a mid-semester practicum to test this understanding, and two major projects with corresponding design statements, presentations and critiques which will be spread over the course of the allotted 15 weeks.
+This course will be an organic mix of lecture and practice with the professor working to explain the concepts, give examples, and oversee how well students grasp the ideas discussed as they work on assigned projects. There will be multiple game prototypes that build up to one final major project. Students will also keep a design journal through GitHub that includes corresponding documentation of design ideas, prototype exploration, and reflections. We will use this material for informal presentation and critiques which will occur weekly throughout the term.
 
 ### Prep Materials
 
@@ -44,7 +44,7 @@ Each week I will assign readings/videos/activities that must be done *before* th
 
 ### Class Sessions
 
-Each class will being with a discussion period in the classroom. I will answer questions about about the week's material and build example prototypes based on what we have covered so far. Additional topics for discussion will be introduced as necessary. 
+Each class will begin with a discussion period in the classroom. I will answer questions about about the week's material and build example prototypes based on what we have covered so far. Additional topics for discussion will be introduced as necessary. 
 
 ### Studio time
 
@@ -52,30 +52,26 @@ The second half of some sessions will be studio time for you to work on exercise
 
 Attendance of the studio period is technically optional, but students are *very heavily encouraged* to take the time to connect with the instructor and to work in the group setting.
 
-### Projects
+## Weekly Prototypes and Process Documentation via GitHub
 
-There will be three graded projects during the course. The first project is a quick turnaround to introduce proper scoping of small projects, and will be graded pass/fail. The second and third projects will scaffold on work done in class and on each other, increasing in complexity, and will each go through a complete design cycle of ideation, prototyping, testing, and refinement.
+Every week you will make something to test a design idea. You will use GitHub to save, track, and present this and all other coursework. We will be using the [MDM Framework](https://www.gamesasresearch.com/mdm) for tracking progress and changes in both the design thinking and execution of your work. Each week I will select students to informally talk through their most recent design sprint in front of the class for feedback. These weekly design journals will be graded and make up the majority of the available points for this course.
 
-## GitHub
+### Final Project
 
-You will be need to create your own repository on GitHub to save, track, and present coursework. We will be using the [MDM Framework](https://www.gamesasresearch.com/mdm) for tracking progress and changes in both the design thinking and execution of your work.
+As we reach the end of the semester the weekly prototypes will solidify into a final idea, with each new prototype scaffolding on the ones before. These prototypes will increase in complexity and refinement, as every week you work through a complete design cycle of ideation, prototyping, testing, and refinement.
 
 ## Course Website
 
-You're looking at it! I will post most things here (including details on lecture schedules, readings, examples, assignments, etc.). I will be posting grades to you via the course [Moodle](https://moodle.concordia.ca/).
+You're looking at it! I will post most things here (including details on lecture schedules, readings, examples, assignments, etc.). The course [Moodle](https://moodle.concordia.ca/) will mainly be used for posting grades.
 
 ## Evaluation
 
-Specific evaluation requirements will be provided when assigned.
-
-* Limited Scope Introduction Project @ 5% (pass/fail)
-* Scaffolded Shmup Project @ 15%
-* Debugging Practicum @ 10%
-* Exploration Prototypes (2) @ 5% each / 10% total
-* Iterative Prototypes (2) @ 5% each / 10% total
-* Playtests (2) @ 5% each / 10% total
-* Final Game and Presentation @ 25%
-* Weekly Design Journal @ 15%
+* Limited Scope Introduction Project (5% pass/fail)
+* Weekly Process Documentation (10 @ 8% each | 80% total)
+	* Exploration Prototypes (4) 
+	* Iterative Prototypes (5) 
+	* Final Documentation (1)
+* Final Game @ 15%
 
 ## Accessibility & Inclusion
 
@@ -86,6 +82,6 @@ Please do not hesitate to contact me to bring up any issue related to accessibil
 Game development frequently involves a lot of code reuse. Whenever you reuse or build on someone else’s code, you are expected to appropriately credit and reference its authors. The same is true of imagery, sounds, video, excerpts of literature, art works, and contributions from other students. Failure to do so may be regarded as plagiarism. Importantly, the university doesn’t care about intentions when it comes to plagiarism.
 
 
-## Additional Course Polocies:
+## Additional Course Policies:
 * [Design and Computation Arts Syllabus](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-syllabus.pdf)
 
