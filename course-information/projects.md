@@ -2,29 +2,25 @@
 
 # Assignments
 
-## Limited scope introduction project: Make a thing!
+## Limited scope introduction project: Make a Thing!
 
 For the first week of class you will be introduced to a variety of accessible game-making tools and given one week to work on a limited scope project. You will present this on the second week of class.
 
-## Scaffolded Introductory Project (Shmup Remix)
+## Design Journal
 
-Over the first few weeks of the course we will build up a scaffolding of projects (through Pong and Breakout clones), culminating in a final shoot-em-up [SHMUP](https://en.wikipedia.org/wiki/Shoot_'em_up) Remix project. This project will help to serve as an introduction to MDM techniques, as well as the iterative game design process. Each stage will include related design journal entries, reflections, and a final playtest.
+Your design journal is a living document in your repo that will contain your thoughts and reflections throughout the process of prototying your games. Generally this encompasses discussing the design goals for the current idea, what you made to test those ideas, what your take away from the prototype was, and what you intend to accomplish next. Most weeks there will be an additional prompt to help guide the explorations that you should be pursuing. 
 
-**Due: February 22**
+**Due: Weekly**
 
 ## Final Project
 
-The remaining weeks of the course will be dedicated to prototyping a final game. This will go through a traditional iterative game design process, where we weekly step forward and loop through:
+Once you have explored a few possible directions with your prototypes, you will settle on a final idea that you would like to refine. The remaining weeks of the course will be dedicated to prototyping this idea into a final version. This will go through a traditional iterative game design process, where we weekly step forward and loop through:
 
 * Ideation
 * Prototyping
 * Testing
 * Refinement
 
-**Due: April 11**
+**Due: April 10*
 
-## Design Journal
 
-Your design journal is a living document in your repo that will contain your thoughts and reflections throughout the process of prototying your games. Generally this encompasses discussing what you have worked on every week, what your take away from the process is, and what you intend to accomplish next. Most weeks there will be an additional prompt to help guide this discussion to certain aspects of the process.
-
-**Due: April 15**
