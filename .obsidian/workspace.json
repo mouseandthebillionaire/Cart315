@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "course-information/outline.md",
+                "file": "course-information/resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "outline"
+              "title": "resources"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,15 +191,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "306efe8ed7180f8f",
+  "active": "4d764514f01a3e0d",
   "lastOpenFiles": [
     "course-information/schedule.md",
     "course-information/outline.md",
+    "course-information/resources.md",
     "Process/Journal.md",
     "course-information/projects.md",
     "classSlides/cart315_pitchTemplate.pdf",
     "classSlides/cart315_pitching.pdf",
-    "course-information/resources.md",
     "examples/pineScooper_Debug.zip",
     "classSlides/cart315_prototyping.pdf",
     "classSlides/cart315_conceptualizing.pdf",

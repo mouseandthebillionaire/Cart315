@@ -3,7 +3,7 @@
 # Resources
 
 ## Git
-* [How to GitHub](https://pippinbarr.com/cart253/topics/software/github-repository.html): courtesy of Pippin Barr
+* [How to GitHub](https://pippinbarr.com/cart253/topics/hello-world/): courtesy of Pippin Barr
 * [DownGit](https://minhaskamal.github.io/DownGit/#/home): to download specific folders from the class repo (i.e copy/paste "https://github.com/mouseandthebillionaire/Cart315/tree/main/examples/fallingAsleep" to just get the example project from class session 2)
 
 ## Tiny(ish) Game-Making Tools

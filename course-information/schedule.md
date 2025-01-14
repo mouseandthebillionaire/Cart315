@@ -28,11 +28,15 @@ _note: this schedule is subject to change_
 ### Prep Material
 * Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapters 16-19
 * Watch: [Getting Started with Unity](https://learn.unity.com/mission/real-time-creation-essentials?pathwayId=5f7bcab4edbc2a0023e9c38f) from Unity Learn
+* Review: Rewatch (or read) Pippin's [CART253 material regarding GitHub](https://pippinbarr.com/cart253/topics/hello-world/) 
+	* What is version control?
+	* Creating a Repository
+	* Version Control Workflow
 ### Design Journal
 - Make a Thing, design goals
 ### Class Session: January 23
 * Make a Thing play session and Journal discussion
-* Intro to source control with Git & Github
+* Intro to source control for Unity with Git & Github
 * Unity basics 1
 * Collector Game
 
