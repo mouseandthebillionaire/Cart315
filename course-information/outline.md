@@ -83,5 +83,5 @@ Game development frequently involves a lot of code reuse. Whenever you reuse or 
 
 
 ## Additional Course Policies:
-* [Design and Computation Arts Syllabus](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-syllabus.pdf)
+* [Design and Computation Arts Undergraduate Information](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-information.pdf)
 
