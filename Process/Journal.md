@@ -9,6 +9,12 @@ Based on the ideas of "why do we evaluate the *game* rather than the designer/de
 
 Fingers crossed!
 
+## Notes for Make-Up Class (04.17)
+
+Looking back (i.e grading) these Process Journals it becomes obvious that there needs to be more accountability (i.e hand-holding) to make sure that it is a) done correctly, and b) done at all.
+### An idea _Presents_ itself (pun intended)
+Presentations might not be worthwhile, but what about casual weekly presenting of process. There would probably not be enough time to go through _all_ of the process journals, BUT what if we randomly selected a few? What if it was a game!? This could work to a) keep everyone on their toes b) discuss the good/bad issues that could then be applied each week.
+
 ## Notes for Class 9
 
 Question (based on a revelation I had while speaking in front of the class today): If this class is a "prototyping" class, then the evaluations should evaluate prototyping. We do these game design / development classes, and then we evaluate the *game* rather than the designer/developer. 

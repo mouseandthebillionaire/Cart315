@@ -1,3 +1,4 @@
+
 #### [CART315](../cart315/) | [Schedule](schedule.md) | [Projects](projects.md) | [Resources](resources.md)
 
 # CART 315: Game Prototyping – Winter 2025 – 3 credits
@@ -67,12 +68,12 @@ You're looking at it! I will post most things here (including details on lecture
 ## Evaluation
 
 * Limited Scope Introduction Project (5% pass/fail)
-* Weekly Process Documentation (10 @ 8% each | 80% total)
+* Weekly Process Documentation (10 @ 7% each | 70% total)
 	* Exploration Prototypes (4) 
 	* Iterative Prototypes (5) 
 	* Final Documentation (1)
-* Final Game @ 15%
-
+- Participation (12%)
+* Final Game (13%)
 ## Accessibility & Inclusion
 
 Please do not hesitate to contact me to bring up any issue related to accessibility, or if you require any accommodations in order to participate - whether that is because of disability, interactions with other students, work or child-care responsibilities, trauma, or any other reason.

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "course-information/resources.md",
+                "file": "course-information/outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "outline"
             }
           }
         ],
@@ -193,9 +193,9 @@
   },
   "active": "4d764514f01a3e0d",
   "lastOpenFiles": [
+    "course-information/resources.md",
     "course-information/schedule.md",
     "course-information/outline.md",
-    "course-information/resources.md",
     "Process/Journal.md",
     "course-information/projects.md",
     "classSlides/cart315_pitchTemplate.pdf",
