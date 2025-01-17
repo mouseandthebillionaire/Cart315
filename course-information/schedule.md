@@ -12,6 +12,7 @@ _note: this schedule is subject to change_
 	* Twine
 	* Ink
 	* Bitsy
+	* GB Studio
 * Assignment introduction: Make a Thing!
 * Introduction to MDM (if there is time)
 ### Material from Class
@@ -33,7 +34,7 @@ _note: this schedule is subject to change_
 	* Creating a Repository
 	* Version Control Workflow
 ### Design Journal
-- Make a Thing, design goals
+- Make-a-Thing, design reflection - Write a short text that reflects on the process of making your "make-a-thing" project. What worked? What didn't? What challenges did you have with the idea, or the software, or the implementation? Take screenshots of your project if you can. This should be a text file of some sort (google docs, word, text edit) that we will implement into your GitHub repo during next week's session.
 ### Class Session: January 23
 * Make a Thing play session and Journal discussion
 * Intro to source control for Unity with Git & Github
