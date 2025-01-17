@@ -1,5 +1,11 @@
 # Weekly Class Journal
 
+## Notes for Class 1 (01.16.25)
+
+Other than the power going out and needing to end the session early, this felt like a good start to the semester. I am slightly nervous that the lack of introduction to the software (bitsy/pico-8 especially) will be detrimental to the projects that we will see next week, but I think the language of "we are having you make-a-thing not because it's going to be a good thing but rather _specifically_ to try and get your first bad thing out of the way" is a good way of talking about it. It helps with scope, too, obviously, but it might be more important to "rip the band-aid off."
+
+Looking forward to this semester!
+
 ## Notes before the 2025 Semester
 
 Based on the ideas of "why do we evaluate the *game* rather than the designer/developer" this semester of the course will focus more heavily on the MDM process, specifically on documenting the students' design thinking. Additionally, instead of formal presentations at the end of the semester (or for specific milestones), I am planing on calling on students at random throughout the semester to talk through what they have documented from the week before. Hopefully this will:
