@@ -1,10 +1,10 @@
-# project specific files
+# project (course) specific files
+KeynoteSlides/
 
 # Mouse & the Billionaire general organizational, third party, and hidden files
 ProjectFiles/
 Builds/
 ThirdParty/
-KeynoteSlides/
 
 # Remaining gitignore file from NYU Game Center
 
