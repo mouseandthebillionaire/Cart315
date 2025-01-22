@@ -28,7 +28,7 @@ _note: this schedule is subject to change_
 
 ### Prep Material
 * Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapters 16-19
-* Watch: [Getting Started with Unity](https://learn.unity.com/mission/real-time-creation-essentials?pathwayId=5f7bcab4edbc2a0023e9c38f) from Unity Learn
+* Watch: [Unity Essentials: Editor Essentials](https://learn.unity.com/pathway/unity-essentials) from Unity Learn
 * Review: Rewatch (or read) Pippin's [CART253 material regarding GitHub](https://pippinbarr.com/cart253/topics/hello-world/) 
 	* What is version control?
 	* Creating a Repository
