@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class SleepyManager : MonoBehaviour {
@@ -10,15 +9,10 @@ public class SleepyManager : MonoBehaviour {
         StartCoroutine(SleepySpawn());
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     private IEnumerator SleepySpawn() {
         float x = Random.Range(-8f, 8f);
-        Instantiate(sleepy, new Vector3(x, 6, 0), Quaternion.identity);
+        Vector3 sPos = new Vector3(x, 6, 0);
+        Instantiate(sleepy, sPos, transform.rotation);
 
         yield return new WaitForSeconds(1.5f);
         StartCoroutine(SleepySpawn());

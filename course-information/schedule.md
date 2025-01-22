@@ -41,7 +41,7 @@ _note: this schedule is subject to change_
 * Make a Thing play session and Journal discussion
 * Intro to source control for Unity with Git & Github
 * Repo and Design Journal setup
-* Unity basics 1
+* Unity Basics 1 (Keyboard Control / Collisions)
 * Collector Game
 
 ### Material from Class
