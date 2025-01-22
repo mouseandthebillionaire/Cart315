@@ -1,4 +1,4 @@
-#### [CART315](/cart315/) | [Schedule](course-information/schedule.md) | [Examples](projects/) | [Resources](course-information/examples/)
+#### [CART315](/cart315/) | [Schedule](course-information/schedule.md) | [Examples](Projects/) | [Resources](course-information/examples/)
 
 # CART 315 - Game Prototyping - Winter 2025
 
