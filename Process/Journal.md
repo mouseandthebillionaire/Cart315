@@ -1,5 +1,9 @@
 # Weekly Class Journal
 
+## Notes for Class 2 (01.23.25)
+
+[Project for class today](Projects/fallingAsleep)
+
 ## Notes for Class 1 (01.16.25)
 
 Other than the power going out and needing to end the session early, this felt like a good start to the semester. I am slightly nervous that the lack of introduction to the software (bitsy/pico-8 especially) will be detrimental to the projects that we will see next week, but I think the language of "we are having you make-a-thing not because it's going to be a good thing but rather _specifically_ to try and get your first bad thing out of the way" is a good way of talking about it. It helps with scope, too, obviously, but it might be more important to "rip the band-aid off."

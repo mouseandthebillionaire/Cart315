@@ -48,6 +48,7 @@ _note: this schedule is subject to change_
 - [NYU Game Center's GitConfig template](https://github.com/NYUGameCenter/Unity-Git-Config)
 - [gitignore example](https://github.com/mouseandthebillionaire/Cart315/blob/main/.gitignore)
 - [MDM information](https://www.gamesasresearch.com/mdm)
+- [Conventional Commit Documentation](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
 
 <!--
 ## Week 3

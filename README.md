@@ -3,6 +3,7 @@
 # CART 315 - Game Prototyping - Winter 2025
 
 ## Instructor
+![alt tag](Media/Location.jpg)
 
 Matthew Bethancourt
 * [matthew.bethancourt@concordia.ca](mailto:matthew.bethancourt@concordia.ca)  

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8770defe91a2943268bbf479c181c5e8
+guid: 55c880637f9f440088f178f84781002e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1581843949736848837
-    second: nauseated-face_0
+      213: -2173751575028150957
+    second: yawn_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,12 +113,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: nauseated-face_0
+      name: yawn_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 0
-        width: 149
+        width: 148
         height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b3295d50f492c0ae0800000000000000
-      internalID: -1581843949736848837
+      spriteID: 35d4084a57845d1e0800000000000000
+      internalID: -2173751575028150957
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      nauseated-face_0: -1581843949736848837
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
