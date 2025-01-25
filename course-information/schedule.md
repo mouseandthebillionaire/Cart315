@@ -50,7 +50,6 @@ _note: this schedule is subject to change_
 - [MDM information](https://www.gamesasresearch.com/mdm)
 - [Conventional Commit Documentation](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
 
-<!--
 ## Week 3
 
 ### Prep Material
@@ -64,12 +63,13 @@ _note: this schedule is subject to change_
   * [Loops](https://learn.unity.com/tutorial/loops-z2b)
   * [Arrays](https://learn.unity.com/tutorial/arrays-9o)
 
-### Class Session: February 1
+### Class Session: January 30
 
 * Topic: Prototyping
 * Unity basics 2
 * Pawng
 
+<!--
 ### Material from Class
 * [DownGit](https://minhaskamal.github.io/DownGit/#/home): to download specific folders from the class repo (i.e copy/paste "https://github.com/mouseandthebillionaire/Cart315/tree/main/examples/fallingAsleep" to just get the example project from class session 2)
 * The Concordia [C-Lab](https://clab.concordia.ca) is available for any tutoring / programming help you may need
