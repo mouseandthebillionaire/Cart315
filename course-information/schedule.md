@@ -63,6 +63,9 @@ _note: this schedule is subject to change_
   * [Loops](https://learn.unity.com/tutorial/loops-z2b)
   * [Arrays](https://learn.unity.com/tutorial/arrays-9o)
 
+### Design Journal
+- Exploration Prototype 1 - Using the material that we looked at this week (movement, colliders, instantiation, etc) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
+
 ### Class Session: January 30
 
 * Topic: Prototyping
