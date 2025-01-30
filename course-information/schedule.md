@@ -87,11 +87,13 @@ _note: this schedule is subject to change_
   * [Look At](https://unity3d.com/learn/tutorials/topics/scripting/classes?playlist=17117)
   * [Enumerations](https://learn.unity.com/tutorial/enumerations?projectId=5c8920b4edbc2a113b6bc26a)
   * [Update and Fixed Update](https://learn.unity.com/tutorial/update-and-fixedupdate?projectId=5c8920b4edbc2a113b6bc26a)
+
+### Design Journal
+- Exploration Prototype 2 - Using the material that we looked at this week (physics, object tags, scoring, sound, etc) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
     
 ### Class Session: February 8
 * Unity basics 3
 * Breakin' Out
-* Assignment introduction: Prototypes and Design Journal
 
 ## Week 5
 
@@ -123,7 +125,7 @@ _note: this schedule is subject to change_
 
 ### Class Session: March 7
 * Debugging Practicum
-* Topic: Prototyping
+* Topic: Iteration // (in the Prototyping slides)
 * Exploration Prototype 1
 * In-class playtests
 
