@@ -1,5 +1,9 @@
 # Weekly Class Journal
 
+## Notes for Class 3 (01.30.25)
+
+- add EZGIF to the class session
+
 ## Notes for Class 2 (01.23.25)
 
 [Project for class today](Projects/fallingAsleep)

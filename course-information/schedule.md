@@ -74,6 +74,7 @@ _note: this schedule is subject to change_
 
 <!--
 ### Material from Class
+* EZGIF (LNNK)
 * [DownGit](https://minhaskamal.github.io/DownGit/#/home): to download specific folders from the class repo (i.e copy/paste "https://github.com/mouseandthebillionaire/Cart315/tree/main/examples/fallingAsleep" to just get the example project from class session 2)
 * The Concordia [C-Lab](https://clab.concordia.ca) is available for any tutoring / programming help you may need
 
