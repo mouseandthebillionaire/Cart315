@@ -72,9 +72,8 @@ _note: this schedule is subject to change_
 * Unity basics 2
 * Pawng
 
-<!--
 ### Material from Class
-* EZGIF (LNNK)
+* [EZGIF](https://ezgif.com)
 * [DownGit](https://minhaskamal.github.io/DownGit/#/home): to download specific folders from the class repo (i.e copy/paste "https://github.com/mouseandthebillionaire/Cart315/tree/main/examples/fallingAsleep" to just get the example project from class session 2)
 * The Concordia [C-Lab](https://clab.concordia.ca) is available for any tutoring / programming help you may need
 
@@ -90,12 +89,13 @@ _note: this schedule is subject to change_
   * [Update and Fixed Update](https://learn.unity.com/tutorial/update-and-fixedupdate?projectId=5c8920b4edbc2a113b6bc26a)
 
 ### Design Journal
-- Exploration Prototype 2 - Using the material that we looked at this week (physics, object tags, scoring, sound, etc) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
+- Exploration Prototype 2 - Using the material that we looked at this week (physics, object tags, scoring, sound, etc) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea? If you are stuck, think about how you could change some of these things to make an experimental version of the Pawng game we created. For instance, what happens if some of the object attributes change over time? Or every time the ball bounces?
     
 ### Class Session: February 8
 * Unity basics 3
 * Breakin' Out
 
+<!--
 ## Week 5
 
 ### Prep Materials
