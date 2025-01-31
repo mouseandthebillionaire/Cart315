@@ -5,6 +5,9 @@ using UnityEngine;
 public class PaddleScript : MonoBehaviour {
     private float     yPos;
     public float      paddleSpeed = .05f;
+
+	public KeyCode	  upKey, downKey;
+	public float	  topWall, bottomWall;
 	
     // Start is called before the first frame update
     void Start() {
@@ -13,11 +16,11 @@ public class PaddleScript : MonoBehaviour {
 
     // Update is called once per frame
     void Update() {
-        if (Input.GetKey(KeyCode.A)) {
+        if (Input.GetKey(downKey) && yPos > bottomWall) {
                 yPos -= paddleSpeed;
         }
 
-        if (Input.GetKey(KeyCode.Q)) {
+        if (Input.GetKey(upKey) && yPos < topWall) {
                 yPos += paddleSpeed;
         }
 
