@@ -17,7 +17,7 @@ public class BrickLayerManager : MonoBehaviour {
             for (int j = 0; j < rows; j++) {
                 float xPos = -columns + (i * brickSpacing_h);
                 float yPos = rows - (j * brickSpacing_v);
-                Instantiate(brick, new Vector3(xPos, yPos, 0), Quaternion.identity, this.transform);
+                Instantiate(brick, new Vector3(xPos, yPos, 0), transform.rotation);
 
             }
         }
