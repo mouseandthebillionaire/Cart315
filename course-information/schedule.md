@@ -95,24 +95,28 @@ _note: this schedule is subject to change_
 * Unity basics 3
 * Breakin' Out
 
-<!--
 ## Week 5
 
 ### Prep Materials
-* Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapters 25
-* Design Journal: Game Analysis - Find a game that you know well or are interested by. What decisions have the designers made that cause the game to be interesting? Where have they failed? Think mechanically rather than thematically. What ideas/methods/techniques do you think you could borrow for future projects?
+* Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapter 25 
+
+### Design Journal
+- Exploration Prototype 3 - Using the material that we looked at this week (singletons, spawning children objects with potentially different variables) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
 
 ### Class Session 5: February 15
 * Topic: Playtesting
-* In-class playtests
+* The Great SHMUPpet Caper
 
+<!--
 ## Week 6
 ### Prep Materials
 * Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapter 7, <em>Acting Like a Designer</em>
 * Watch: [How Cuphead's Booses (Try to) Kill You](https://www.youtube.com/watch?v=F8T6Ul4aHTI), from Game Maker's Toolkit
 
+### Design Journal
+Extra Credit: Game Analysis - Find a game that you know well or are interested by. What decisions have the designers made that cause the game to be interesting? Where have they failed? Think mechanically rather than thematically. What ideas/methods/techniques do you think you could borrow for future projects?
+
 ### Class Session: February 22
-* SHMUP Remix Presentations
 * Topic: Getting Ideas for Games
 * Ideation Workshop
 * Unity Workshop
