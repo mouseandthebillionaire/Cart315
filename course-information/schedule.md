@@ -91,7 +91,7 @@ _note: this schedule is subject to change_
 ### Design Journal
 - Exploration Prototype 2 - Using the material that we looked at this week (physics, object tags, scoring, sound, etc) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea? If you are stuck, think about how you could change some of these things to make an experimental version of the Pawng game we created. For instance, what happens if some of the object attributes change over time? Or every time the ball bounces?
     
-### Class Session: February 8
+### Class Session: February 6
 * Unity basics 3
 * Breakin' Out
 
@@ -103,9 +103,12 @@ _note: this schedule is subject to change_
 ### Design Journal
 - Exploration Prototype 3 - Using the material that we looked at this week (singletons, spawning children objects with potentially different variables) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
 
-### Class Session 5: February 15
+### Class Session 5: February 13
 * Topic: Playtesting
 * The Great SHMUPpet Caper
+
+### Files From Class
+- [Fine Arts Reading Room Publication Grant](https://docs.google.com/forms/d/e/1FAIpQLSfyN0Q2a5p3RBZPROu1KLpdqPqLBvq90w6PE5UbyAacDOi6hg/viewform)
 
 <!--
 ## Week 6
@@ -116,7 +119,7 @@ _note: this schedule is subject to change_
 ### Design Journal
 Extra Credit: Game Analysis - Find a game that you know well or are interested by. What decisions have the designers made that cause the game to be interesting? Where have they failed? Think mechanically rather than thematically. What ideas/methods/techniques do you think you could borrow for future projects?
 
-### Class Session: February 22
+### Class Session: February 20
 * Topic: Getting Ideas for Games
 * Ideation Workshop
 * Unity Workshop
