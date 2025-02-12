@@ -21,7 +21,7 @@ public class BrickLayer : MonoBehaviour {
 
     public void Lay() {
         for (int i = 0; i < columns; i++) {
-            for (int j = 0; j <= rows; j++) {
+            for (int j = 0; j < rows; j++) {
                 float xPos = -columns + (i * bs_h);
                 float yPos = rows - (j * bs_v);
                 
