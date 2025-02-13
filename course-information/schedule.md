@@ -103,26 +103,28 @@ _note: this schedule is subject to change_
 ### Design Journal
 - Exploration Prototype 3 - Using the material that we looked at this week (singletons, spawning children objects with potentially different variables) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
 
-### Class Session 5: February 13
-* Topic: Playtesting
-* The Great SHMUPpet Caper
+### Class Session: February 13 - CANCELLED | SNOW DAY!
 
 ### Files From Class
 - [Fine Arts Reading Room Publication Grant](https://docs.google.com/forms/d/e/1FAIpQLSfyN0Q2a5p3RBZPROu1KLpdqPqLBvq90w6PE5UbyAacDOi6hg/viewform)
 
-<!--
 ## Week 6
+
 ### Prep Materials
 * Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapter 7, <em>Acting Like a Designer</em>
 * Watch: [How Cuphead's Booses (Try to) Kill You](https://www.youtube.com/watch?v=F8T6Ul4aHTI), from Game Maker's Toolkit
 
 ### Design Journal
-Extra Credit: Game Analysis - Find a game that you know well or are interested by. What decisions have the designers made that cause the game to be interesting? Where have they failed? Think mechanically rather than thematically. What ideas/methods/techniques do you think you could borrow for future projects?
+- Exploration Prototype 4 - Build on Exploration Prototype 3 and then document the exploration. What did you change from last time? What specifically does this change test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
 
-### Class Session: February 20
+- Extra Credit Journal Entry: Game Analysis - Find a game that you know well or are intrigued by. What decisions have the designers made that cause the game to be interesting? Where have they failed? Think mechanically rather than thematically. What ideas/methods/techniques do you think you could borrow for future projects?
+
+### Class Session 6: February 20
 * Topic: Getting Ideas for Games
 * Ideation Workshop
-* Unity Workshop
+* The Great SHMUPpet Caper
+
+<!--
 
 ## February 26 - March 3: Reading Week | No Class
 

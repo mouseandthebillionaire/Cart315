@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2259775678007137484}
   - component: {fileID: 3183337264459570044}
   - component: {fileID: 1187045273634765032}
+  - component: {fileID: -961743429031407888}
   m_Layer: 0
   m_Name: shot
   m_TagString: Untagged
@@ -152,3 +153,15 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.5
+--- !u!114 &-961743429031407888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3708082236670368725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e82cfa07ba7d481db480443336ca149, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
