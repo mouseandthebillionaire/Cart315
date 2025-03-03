@@ -124,21 +124,19 @@ _note: this schedule is subject to change_
 * Ideation Workshop
 * The Great SHMUPpet Caper
 
-<!--
-
 ## February 26 - March 3: Reading Week | No Class
 
 ## Week 7
 
 ### Prep Materials
-* Design Journal: Conceptualizing - Journal about your ideation process. Include any Design Values, Precedents, and your 3 favourite ideas. These don't have to be very detailed, just a few sentences to capture the main game concept.
+* Design Journal: Iterative Prototyping 1 (Conceptualizing) - Journal about your ideation process. Include any Design Values, Precedents, and your 3 favourite ideas. These don't have to be very detailed, just a few sentences to capture the main game concept. Build out simple prototype to test one of the ideas. This can be a role, look/feel, or implementation prototype (Remember that this doesn't have to be digital!) 
 
-### Class Session: March 7
-* Debugging Practicum
-* Topic: Iteration // (in the Prototyping slides)
+### Class Session: March 6
+* Topic: Iteration
 * Exploration Prototype 1
-* In-class playtests
+* In-class feedback session on Prototypes
 
+<!--
 ## Week 8
 
 ### Prep Materials
