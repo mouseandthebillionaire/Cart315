@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ocean-waves_0: 3959306882931824705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

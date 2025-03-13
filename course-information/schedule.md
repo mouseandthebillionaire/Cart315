@@ -136,34 +136,40 @@ _note: this schedule is subject to change_
 * Exploration Prototype 1
 * In-class feedback session on Prototypes
 
-<!--
 ## Week 8
-
 ### Prep Materials
-- Design Journal: Prototyping Stage 1 - Journal about the first stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype?What fidelity levels are you dealing with? What did you learn and what are the next steps?
-- Go through a second stage of prototypes to test with friends and family. From this you will build an initial Iterative Prototype that, along with a journal entry, will be due on Week 9.
-### Class Session: March 14
-- (Asynchronous due to Student Strike)
+- Design Journal: Iterative Prototyping 2 - Journal about the second stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you learn and what are the next steps?
+
+### Class Session: March 13
 * Exploration Prototype 2
+* In-class feedback session on Prototypes
+* Group meetings with me for 
+
+### Files From Class
+* [bfxr](https://www.bfxr.net) and [sfxr](https://sfxr.me/) for sound effects
 
 ## Week 9
 ### Prep Materials
-- Design Journal: Prototyping Stage 2 - Document where you are at this point in your prototyping process
-### Class Session: March 21 
-* Topic: Playtesting
-* Iterative Prototype 1
+- Design Journal: Iterative Prototyping 3 - Journal about the third stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you make to answer these questions? What did you learn and what are the next steps?
 
+### Class Session: March 20
+* Iterative Prototype 3
+* In-class feedback session on Prototypes
+
+
+<!--
 ## Week 10
 ### Prep Materials
-- Design Journal: Prototyping Stage 3 - Document where you are at this point in your prototyping process
-### Class Session: March 28
-- (Asynchronous)
-* Iterative Prototype 2
+* Design Journal: Iterative Prototyping 4 - Journal about the third stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you make to answer these questions? What did you learn and what are the next steps?
+
+### Class Session: March 27
+* Field trip to Pippin's talk
+* Iterative Prototype 4
 
 ## Week 11
 ### Prep Materials
 - Design Journal: Prototyping Stage 4 - Document and reflect on the entire design process
-### Class Session: April 4
+### Class Session: April 3
 - Topic: Presentations
 ### Materials from Class
 - [Slides](../classSlides/cart315_pitching.pdf)
@@ -172,7 +178,7 @@ _note: this schedule is subject to change_
 ## Week 12
 ### Prep Materials
 - Design Journal: Final Stage (reminder: this material will be in your presentation also!)
-### Class Session: April 11
+### Class Session: April 10
 - Project Presentations / Playday
 
 ## Week 12: Make-Up Class
