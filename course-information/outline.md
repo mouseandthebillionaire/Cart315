@@ -59,7 +59,7 @@ Every week you will make something to test a design idea. You will use GitHub to
 
 ### Final Project
 
-As we reach the end of the semester the weekly prototypes will solidify into a final idea, with each new prototype scaffolding on the ones before. These prototypes will increase in complexity and refinement, as every week you work through a complete design cycle of ideation, prototyping, testing, and refinement.
+(From the Course Repo) As we reach the end of the semester the weekly prototypes will solidify into a final idea, with each new prototype scaffolding on the ones before. These prototypes will increase in complexity and refinement, as every week you work through a complete design cycle of ideation, prototyping, testing, and refinement. Think of the final prototype as a culmination of this. This could be the most complex mechanical experiment that you have made so far, a highly-polished vertical slice of a bigger idea, or complete micro-game. You will bring it in for playtesting and discussion on the last day of the course, and then have one week for optional further refinement based on the feedback you received during the class session. 
 
 ## Course Website
 
