@@ -5,7 +5,7 @@ _note: this schedule is subject to change_
 
 ## Week 1
 
-### Class Session: January 16
+### Class Session: January 15
 * Class intro and syllabus
 * Topic: A (Somewhat) Short History of Video Games / Scoping
 * Tools demonstration
@@ -24,6 +24,7 @@ _note: this schedule is subject to change_
 	* [Turtle Town 2.0](https://invisii.itch.io/turtle-town-2)
 	* [Tesla AI Training Tool](https://harrison-b.itch.io/tesla-ai-training-tool)
 
+<!--
 ## Week 2
 
 ### Prep Material
@@ -37,7 +38,7 @@ _note: this schedule is subject to change_
 	- Make sure you change your user name to your real name!
 ### Design Journal
 - Make-a-Thing, design reflection - Write a short text that reflects on the process of making your "make-a-thing" project. What worked? What didn't? What challenges did you have with the idea, or the software, or the implementation? Take screenshots of your project if you can. This should be a text file of some sort (google docs, word, text edit) that we will implement into your GitHub repo during this week's session.
-### Class Session: January 23
+### Class Session: January 22
 * Make a Thing play session and Journal discussion
 * Intro to source control for Unity with Git & Github
 * Repo and Design Journal setup
@@ -66,7 +67,7 @@ _note: this schedule is subject to change_
 ### Design Journal
 - Exploration Prototype 1 - Using the material that we looked at this week (movement, colliders, instantiation, etc) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
 
-### Class Session: January 30
+### Class Session: January 29
 
 * Topic: Prototyping
 * Unity basics 2
@@ -91,7 +92,7 @@ _note: this schedule is subject to change_
 ### Design Journal
 - Exploration Prototype 2 - Using the material that we looked at this week (physics, object tags, scoring, sound, etc) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea? If you are stuck, think about how you could change some of these things to make an experimental version of the Pawng game we created. For instance, what happens if some of the object attributes change over time? Or every time the ball bounces?
     
-### Class Session: February 6
+### Class Session: February 5
 * Unity basics 3
 * Breakin' Out
 
@@ -103,7 +104,7 @@ _note: this schedule is subject to change_
 ### Design Journal
 - Exploration Prototype 3 - Using the material that we looked at this week (singletons, spawning children objects with potentially different variables) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
 
-### Class Session: February 13 - CANCELLED | SNOW DAY!
+### Class Session: February 12
 
 ### Files From Class
 - [Fine Arts Reading Room Publication Grant](https://docs.google.com/forms/d/e/1FAIpQLSfyN0Q2a5p3RBZPROu1KLpdqPqLBvq90w6PE5UbyAacDOi6hg/viewform)
@@ -119,28 +120,28 @@ _note: this schedule is subject to change_
 
 - Extra Credit Journal Entry: Game Analysis - Find a game that you know well or are intrigued by. What decisions have the designers made that cause the game to be interesting? Where have they failed? Think mechanically rather than thematically. What ideas/methods/techniques do you think you could borrow for future projects?
 
-### Class Session 6: February 20
+### Class Session 6: February 19
 * Topic: Getting Ideas for Games
 * Ideation Workshop
 * The Great SHMUPpet Caper
-
-## February 26 - March 3: Reading Week | No Class
 
 ## Week 7
 
 ### Prep Materials
 * Design Journal: Iterative Prototyping 1 (Conceptualizing) - Journal about your ideation process. Include any Design Values, Precedents, and your 3 favourite ideas. These don't have to be very detailed, just a few sentences to capture the main game concept. Build out simple prototype to test one of the ideas. This can be a role, look/feel, or implementation prototype (Remember that this doesn't have to be digital!) 
 
-### Class Session: March 6
+### Class Session: February 26
 * Topic: Iteration
 * Exploration Prototype 1
 * In-class feedback session on Prototypes
+
+## March 2 - March 8: Reading Week | No Class
 
 ## Week 8
 ### Prep Materials
 - Design Journal: Iterative Prototyping 2 - Journal about the second stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you learn and what are the next steps?
 
-### Class Session: March 13
+### Class Session: March 12
 * Exploration Prototype 2
 * In-class feedback session on Prototypes
 * Group meetings with me for 
@@ -152,33 +153,34 @@ _note: this schedule is subject to change_
 ### Prep Materials
 - Design Journal: Iterative Prototyping 3 - Journal about the third stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you make to answer these questions? What did you learn and what are the next steps?
 
-### Class Session: March 20
+### Class Session: March 19
 * Iterative Prototype 3
 * In-class feedback session on Prototypes
 
 
-<!--
 ## Week 10
 ### Prep Materials
 * Design Journal: Iterative Prototyping 4 - Journal about the third stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you make to answer these questions? What did you learn and what are the next steps?
 
-### Class Session: March 27
-* Field trip to Pippin's talk
+### Class Session: March 26
 * Iterative Prototype 4
-
-## Week 11
-### Prep Materials
-- Design Journal: Prototyping Stage 4 - Document and reflect on the entire design process
-### Class Session: April 3
 - Topic: Presentations
+
 ### Materials from Class
 - [Slides](../classSlides/cart315_pitching.pdf)
 - [Pitch Template (pdf)](../classSlides/cart315_pitchTemplate.pdf)
 
+## Week 11
+### Prep Materials
+- Design Journal: Prototyping Stage 4 - Document and reflect on the entire design process
+### Class Session: April 2
+- Final Playtesting and Work Session
+
+
 ## Week 12
 ### Prep Materials
 - Design Journal: Final Stage (reminder: this material will be in your presentation also!)
-### Class Session: April 10
+### Class Session: April 9
 - Project Presentations / Playday
 
 ## Week 12: Make-Up Class
