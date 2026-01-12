@@ -1,7 +1,7 @@
 
 #### [CART315](../cart315/) | [Schedule](schedule.md) | [Projects](projects.md) | [Resources](resources.md)
 
-# CART 315: Game Prototyping – Winter 2025 – 3 credits
+# CART 315: Game Prototyping – Winter 2026 – 3 credits
 
 Thursdays, 17:45 – 21:45 in EV 5.615
 Instructor: Matthew Bethancourt | [matthew.bethancourt@concordia.ca](mailto:matthew.bethancourt@concordia.ca)
