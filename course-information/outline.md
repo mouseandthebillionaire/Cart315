@@ -22,15 +22,15 @@ Prerequisite: CART 263 or COMP 218 or COMP 248; or written permission of the Dep
 
 After completing this course, students should be able to:
 
-* Use rapid prototyping and iterative design methods to design and develop a game from beginning to end.
+* Use rapid prototyping and iterative design methods to design and develop game prototypes
 * Learn basic programming skills and game development concepts using C# and the Unity Engine
-* Run effective playtests and incorporate playtesting feedback into your design process.
+* Run effective playtests and incorporate playtesting feedback into their design process
 * Plan development to mitigate risks and meet deadlines autonomously
 
 ## Course Materials
 
 * [Introduction to Game Design, Prototyping, and Development](https://concordiauniversity.on.worldcat.org/oclc/1340042737) by [Jeremy Gibson Bond](https://book.prototools.net/)
-* [Unity Version 6 (6000.0.xx LTS)](https://unity.com/releases/editor/archive)
+* [Unity Version 6 (6000.3.xx LTS)](https://unity.com/releases/editor/archive)
 * [Rider](https://www.jetbrains.com/rider/) (which you can get a free student license for) or another code editor 
 * [Github Desktop](https://desktop.github.com/) or a git client you are familiar with
 * The [Discord](https://discord.com/) Client
@@ -55,7 +55,7 @@ Attendance of the studio period is technically optional, but students are *very 
 
 ## Weekly Prototypes and Process Documentation via GitHub
 
-Every week you will make something to test a design idea. You will use GitHub to save, track, and present this and all other coursework. We will be using the [MDM Framework](https://www.gamesasresearch.com/mdm) for tracking progress and changes in both the design thinking and execution of your work. Each week I will select students to informally talk through their most recent design sprint in front of the class for feedback. These weekly design journals will be graded and make up the majority of the available points for this course.
+Every week you will make something to test a design idea. You will use GitHub to save, track, and present this and all other coursework. We will be using the [MDM Framework](https://www.materializing.design/mdm) for tracking progress and changes in both the design thinking and execution of your work. Each week I will select students to informally talk through their most recent design sprint in front of the class for feedback. These weekly design journals will be graded and make up the majority of the available points for this course.
 
 ### Final Project
 
@@ -67,13 +67,15 @@ You're looking at it! I will post most things here (including details on lecture
 
 ## Evaluation
 
-* Limited Scope Introduction Project (5% pass/fail)
-* Weekly Process Documentation (10 @ 7% each | 70% total)
+* Limited Scope Introduction Project (2 points pass/fail)
+* Weekly Process Documentation (10 @ 2 points each | 20 total)
 	* Exploration Prototypes (4) 
 	* Iterative Prototypes (5) 
 	* Final Documentation (1)
-- Participation (12%)
-* Final Game (13%)
+	
+* Project Check-In (2 points)
+* Participation (12 points)
+
 ## Accessibility & Inclusion
 
 Please do not hesitate to contact me to bring up any issue related to accessibility, or if you require any accommodations in order to participate - whether that is because of disability, interactions with other students, work or child-care responsibilities, trauma, or any other reason.
