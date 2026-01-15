@@ -68,13 +68,11 @@ You're looking at it! I will post most things here (including details on lecture
 ## Evaluation
 
 * Limited Scope Introduction Project (2 points pass/fail)
-* Weekly Process Documentation (10 @ 2 points each | 20 total)
-	* Exploration Prototypes (4) 
-	* Iterative Prototypes (5) 
-	* Final Documentation (1)
-	
-* Final Iterative Prototype (4)
-* Project Check-In (2 points)
+* Weekly Process Documentation (11 @ 3 points each | 33 total)
+	* Initial Documentation Setup
+    * Exploration Prototypes (4) 
+	* Iterative Prototypes (6)
+* Final Documentation (3)
 * Participation (12 points)
 
 ## Accessibility & Inclusion
