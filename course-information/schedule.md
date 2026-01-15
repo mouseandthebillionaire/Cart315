@@ -8,11 +8,6 @@ _note: this schedule is subject to change_
 ### Class Session: January 15
 * Class intro and syllabus
 * Topic: A (Somewhat) Short History of Video Games / Scoping
-* Tools demonstration
-	* Twine
-	* Ink
-	* Bitsy
-	* GB Studio
 * Assignment introduction: Make a Thing!
 * Introduction to MDM (if there is time)
 ### Material from Class
@@ -23,8 +18,7 @@ _note: this schedule is subject to change_
 	* [Worm Journey](https://kajhar.itch.io/worm-journey)
 	* [Turtle Town 2.0](https://invisii.itch.io/turtle-town-2)
 	* [Tesla AI Training Tool](https://harrison-b.itch.io/tesla-ai-training-tool)
-
-<!--
+	
 ## Week 2
 
 ### Prep Material
@@ -38,12 +32,15 @@ _note: this schedule is subject to change_
 	- Make sure you change your user name to your real name!
 ### Design Journal
 - Make-a-Thing, design reflection - Write a short text that reflects on the process of making your "make-a-thing" project. What worked? What didn't? What challenges did you have with the idea, or the software, or the implementation? Take screenshots of your project if you can. This should be a text file of some sort (google docs, word, text edit) that we will implement into your GitHub repo during this week's session.
+
 ### Class Session: January 22
 * Make a Thing play session and Journal discussion
 * Intro to source control for Unity with Git & Github
 * Repo and Design Journal setup
 * Unity Basics 1 (Keyboard Control / Collisions)
 * Collector Game
+
+<!--
 
 ### Material from Class
 - [NYU Game Center's GitConfig template](https://github.com/NYUGameCenter/Unity-Git-Config)
