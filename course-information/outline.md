@@ -73,6 +73,7 @@ You're looking at it! I will post most things here (including details on lecture
 	* Iterative Prototypes (5) 
 	* Final Documentation (1)
 	
+* Final Iterative Prototype (4)
 * Project Check-In (2 points)
 * Participation (12 points)
 
