@@ -1,5 +1,22 @@
 # Weekly Class Journal
 
+## Notes for Class 13 (04.10.25)
+
+Going into grading these final projects and looking at the overall grades it's clear, that the current method of evaluating the weekly journal didn't work as well as expected. Mainly the gulf between 0 (didn't do it) and 5 (what is submitted needs improvement / the lowest grade I have given for "you turned in something") is too large. It would be better to have a 0-3 system with:
+
+- 0 = not done
+- 1 = needs improvement
+- 2 = fine
+- 3 = amazing
+
+Would need to think about how the points would break down. Right now the idea was that weekly process documentation accounts for 70% of the grade which obviously feels important, but the evaluation isn't reflecting the actual work/effort put in. 12 weeks only gets us to 36 possible points. Is there a final "documentation assessment" grade? A higher "final deliverable" grade. Or don't even worry about it, because Moodle doesn't care if it all shakes down to 100% = 100 points? Or? If it was out of 50 points? 36 points is 72%!
+
+- 36 points for journals
+- 2 points (pass/fail) for the Make-A-Thing
+- 12 points participation (1 point per week)
+
+Though there's no space for final evaluation in here (whether for the journal or the final iteration) which feels weird. Something to keep pondering.
+
 ## Notes for Class 3 (01.30.25)
 
 - add EZGIF to the class session
