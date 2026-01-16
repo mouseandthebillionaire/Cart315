@@ -11,7 +11,7 @@ _note: this schedule is subject to change_
 * Assignment introduction: Make a Thing!
 * Introduction to MDM (if there is time)
 ### Material from Class
-* [Slides](../classSlides/cart315_introduction.pdf)
+* [Slides](http://www.mouseandthebillionaire.com/cart315/cart315_introduction.pdf)
 * Tiny Game Examples
 	* [Disposal](https://xerrf.itch.io/disposal)
 	* [Bloom](https://petroochio.itch.io/bloom)
@@ -30,6 +30,8 @@ _note: this schedule is subject to change_
 	* Version Control Workflow
 - Join the [CART315 Discord Server](https://discord.gg/Ea4x49TH)
 	- Make sure you change your user name to your real name!
+* Download and install Unity on your machine
+
 ### Design Journal
 - Make-a-Thing, design reflection - Write a short text that reflects on the process of making your "make-a-thing" project. What worked? What didn't? What challenges did you have with the idea, or the software, or the implementation? Take screenshots of your project if you can. This should be a text file of some sort (google docs, word, text edit) that we will implement into your GitHub repo during this week's session.
 
