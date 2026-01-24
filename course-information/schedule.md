@@ -3,28 +3,34 @@
 # Course Schedule
 _note: this schedule is subject to change_
 
-## Week 1
+## Week 3
 
-### Class Session: January 15
-* Class intro and syllabus
-* Topic: A (Somewhat) Short History of Video Games / Scoping
-* Assignment introduction: Make a Thing!
-* Introduction to MDM (if there is time)
-### Material from Class
-* [Slides](http://www.mouseandthebillionaire.com/cart315/cart315_introduction.pdf)
-* Tiny Game Examples
-	* [Disposal](https://xerrf.itch.io/disposal)
-	* [Bloom](https://petroochio.itch.io/bloom)
-	* [Worm Journey](https://kajhar.itch.io/worm-journey)
-	* [Turtle Town 2.0](https://invisii.itch.io/turtle-town-2)
-	* [Tesla AI Training Tool](https://harrison-b.itch.io/tesla-ai-training-tool)
-	
+### Prep Material
+* Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapters 20-24
+* Watch (from Unity Beginning Gameplay Scripting):
+	* [Scripts as Behavior Components](https://learn.unity.com/tutorial/scripts-as-behaviour-components?projectId=5c8920b4edbc2a113b6bc26a)
+	* <a href="https://unity3d.com/learn/tutorials/topics/scripting/variables-and-functions?playlist=17117">Variables and Functions</a>
+	* <a href="https://unity3d.com/learn/tutorials/topics/scripting/data-types?playlist=17117">Data Types</a>
+	* <a href="https://unity3d.com/learn/tutorials/topics/scripting/if-statements?playlist=17117">IF Statements</a>
+	* <a href="https://unity3d.com/learn/tutorials/topics/scripting/switch-statements?playlist=17117">Switch Statements</a>
+	* [Loops](https://learn.unity.com/tutorial/loops-z2b)
+	* [Arrays](https://learn.unity.com/tutorial/arrays-9o)
+
+### Design Journal
+- Exploration Prototype 1 - Using the material that we looked at this week (movement, colliders, instantiation, etc) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
+
+### Class Session: January 29
+
+* Topic: Prototyping
+* Unity basics 2
+* Pawng
+
 ## Week 2
 
 ### Prep Material
 * Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapters 16-19
 * Watch: [Unity Essentials: Editor Essentials](https://learn.unity.com/pathway/unity-essentials) from Unity Learn
-* Review: Rewatch (or read) Pippin's [CART253 material regarding GitHub](https://pippinbarr.com/cart253/topics/hello-world/) 
+* Review: Rewatch (or read) Pippin's [CART253 material regarding GitHub](https://pippinbarr.com/cart253/topics/hello-world/)
 	* What is version control?
 	* Creating a Repository
 	* Version Control Workflow
@@ -49,29 +55,25 @@ _note: this schedule is subject to change_
 - [MDM information](https://www.gamesasresearch.com/mdm)
 - [Conventional Commit Documentation](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
 
+## Week 1
+
+### Class Session: January 15
+* Class intro and syllabus
+* Topic: A (Somewhat) Short History of Video Games / Scoping
+* Assignment introduction: Make a Thing!
+* Introduction to MDM (if there is time)
+### Material from Class
+* [Slides](http://www.mouseandthebillionaire.com/cart315/cart315_introduction.pdf)
+* Tiny Game Examples
+	* [Disposal](https://xerrf.itch.io/disposal)
+	* [Bloom](https://petroochio.itch.io/bloom)
+	* [Worm Journey](https://kajhar.itch.io/worm-journey)
+	* [Turtle Town 2.0](https://invisii.itch.io/turtle-town-2)
+	* [Tesla AI Training Tool](https://harrison-b.itch.io/tesla-ai-training-tool)
+	
+
+
 <!--
-
-## Week 3
-
-### Prep Material
-* Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapters 20-24 
-* Watch (from Unity Beginning Gameplay Scripting): 
-  * [Scripts as Behavior Components](https://learn.unity.com/tutorial/scripts-as-behaviour-components?projectId=5c8920b4edbc2a113b6bc26a)
-  * <a href="https://unity3d.com/learn/tutorials/topics/scripting/variables-and-functions?playlist=17117">Variables and Functions</a>
-  * <a href="https://unity3d.com/learn/tutorials/topics/scripting/data-types?playlist=17117">Data Types</a>
-  * <a href="https://unity3d.com/learn/tutorials/topics/scripting/if-statements?playlist=17117">IF Statements</a>
-  * <a href="https://unity3d.com/learn/tutorials/topics/scripting/switch-statements?playlist=17117">Switch Statements</a>
-  * [Loops](https://learn.unity.com/tutorial/loops-z2b)
-  * [Arrays](https://learn.unity.com/tutorial/arrays-9o)
-
-### Design Journal
-- Exploration Prototype 1 - Using the material that we looked at this week (movement, colliders, instantiation, etc) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
-
-### Class Session: January 29
-
-* Topic: Prototyping
-* Unity basics 2
-* Pawng
 
 ### Material from Class
 * [EZGIF](https://ezgif.com)
