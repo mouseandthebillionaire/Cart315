@@ -23,7 +23,7 @@ _note: this schedule is subject to change_
 
 * Topic: Prototyping
 * Unity basics 2
-* Pawng
+* Pawng?
 
 ## Week 2
 
