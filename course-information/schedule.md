@@ -3,6 +3,35 @@
 # Course Schedule
 _note: this schedule is subject to change_
 
+## Week 5
+
+### Prep Materials
+* Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapter 25
+
+### Design Journal
+- Exploration Prototype 3 - Using the material that we looked at last class (singletons, spawning children objects with potentially different variables) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
+
+### Class Session: February 12
+* The Great SHMUPpet Caper
+
+## Week 4
+
+### Prep Materials
+* Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapters 26-28
+* Watch (from Unity Beginner Gameplay Scripting):
+	* [Debugging](https://learn.unity.com/tutorial/get-started-with-visual-studio-and-unity)
+	* [Classes](https://unity3d.com/learn/tutorials/topics/scripting/classes?playlist=17117)
+	* [Look At](https://unity3d.com/learn/tutorials/topics/scripting/classes?playlist=17117)
+	* [Enumerations](https://learn.unity.com/tutorial/enumerations?projectId=5c8920b4edbc2a113b6bc26a)
+	* [Update and Fixed Update](https://learn.unity.com/tutorial/update-and-fixedupdate?projectId=5c8920b4edbc2a113b6bc26a)
+
+### Design Journal
+- Exploration Prototype 2 - Using the material that we looked at this week (physics, object tags, scoring, sound, etc) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea? If you are stuck, think about how you could change some of these things to make an experimental version of the Pawng game we created. For instance, what happens if some of the object attributes change over time? Or every time the ball bounces?
+
+### Class Session: February 5
+* Unity basics 3
+* Breakin' Out
+
 ## Week 3
 
 ### Prep Material
@@ -24,6 +53,12 @@ _note: this schedule is subject to change_
 * Topic: Prototyping
 * Unity basics 2
 * Pawng?
+
+### Material from Class
+* [Prototyping Presentation](../classSlides/cart315_prototyping.pdf)
+* [EZGIF](https://ezgif.com)
+* [What do Prototypes Prototype](https://hci.stanford.edu/courses/cs247/2012/readings/WhatDoPrototypesPrototype.pdf)
+
 
 ## Week 2
 
@@ -70,46 +105,10 @@ _note: this schedule is subject to change_
 	* [Worm Journey](https://kajhar.itch.io/worm-journey)
 	* [Turtle Town 2.0](https://invisii.itch.io/turtle-town-2)
 	* [Tesla AI Training Tool](https://harrison-b.itch.io/tesla-ai-training-tool)
-	
 
 
 <!--
 
-### Material from Class
-* [EZGIF](https://ezgif.com)
-* [DownGit](https://minhaskamal.github.io/DownGit/#/home): to download specific folders from the class repo (i.e copy/paste "https://github.com/mouseandthebillionaire/Cart315/tree/main/examples/fallingAsleep" to just get the example project from class session 2)
-* The Concordia [C-Lab](https://clab.concordia.ca) is available for any tutoring / programming help you may need
-
-## Week 4
-
-### Prep Materials
-* Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapters 26-28
-* Watch (from Unity Beginner Gameplay Scripting):
-  * [Debugging](https://learn.unity.com/tutorial/get-started-with-visual-studio-and-unity)
-  * [Classes](https://unity3d.com/learn/tutorials/topics/scripting/classes?playlist=17117)
-  * [Look At](https://unity3d.com/learn/tutorials/topics/scripting/classes?playlist=17117)
-  * [Enumerations](https://learn.unity.com/tutorial/enumerations?projectId=5c8920b4edbc2a113b6bc26a)
-  * [Update and Fixed Update](https://learn.unity.com/tutorial/update-and-fixedupdate?projectId=5c8920b4edbc2a113b6bc26a)
-
-### Design Journal
-- Exploration Prototype 2 - Using the material that we looked at this week (physics, object tags, scoring, sound, etc) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea? If you are stuck, think about how you could change some of these things to make an experimental version of the Pawng game we created. For instance, what happens if some of the object attributes change over time? Or every time the ball bounces?
-    
-### Class Session: February 5
-* Unity basics 3
-* Breakin' Out
-
-## Week 5
-
-### Prep Materials
-* Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapter 25 
-
-### Design Journal
-- Exploration Prototype 3 - Using the material that we looked at this week (singletons, spawning children objects with potentially different variables) experiment with a game prototype and then document the exploration. What is your idea? What are you trying to test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
-
-### Class Session: February 12
-
-### Files From Class
-- [Fine Arts Reading Room Publication Grant](https://docs.google.com/forms/d/e/1FAIpQLSfyN0Q2a5p3RBZPROu1KLpdqPqLBvq90w6PE5UbyAacDOi6hg/viewform)
 
 ## Week 6
 
@@ -125,7 +124,6 @@ _note: this schedule is subject to change_
 ### Class Session 6: February 19
 * Topic: Getting Ideas for Games
 * Ideation Workshop
-* The Great SHMUPpet Caper
 
 ## Week 7
 
