@@ -70,15 +70,10 @@ _note: this schedule is subject to change_
 	* [Worm Journey](https://kajhar.itch.io/worm-journey)
 	* [Turtle Town 2.0](https://invisii.itch.io/turtle-town-2)
 	* [Tesla AI Training Tool](https://harrison-b.itch.io/tesla-ai-training-tool)
-	
-
-
-<!--
 
 ### Material from Class
 * [EZGIF](https://ezgif.com)
-* [DownGit](https://minhaskamal.github.io/DownGit/#/home): to download specific folders from the class repo (i.e copy/paste "https://github.com/mouseandthebillionaire/Cart315/tree/main/examples/fallingAsleep" to just get the example project from class session 2)
-* The Concordia [C-Lab](https://clab.concordia.ca) is available for any tutoring / programming help you may need
+* [What do Prototypes Prototype](https://hci.stanford.edu/courses/cs247/2012/readings/WhatDoPrototypesPrototype.pdf)
 
 ## Week 4
 
@@ -97,6 +92,8 @@ _note: this schedule is subject to change_
 ### Class Session: February 5
 * Unity basics 3
 * Breakin' Out
+
+<!--
 
 ## Week 5
 
