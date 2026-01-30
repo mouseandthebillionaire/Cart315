@@ -40,6 +40,8 @@ public class BuildingDropperScript : MonoBehaviour {
         currentBuilding.tag = buildingType;
 
         yield return new WaitForSeconds(1.5f);
+        // Variable Speed
+        // yield return new WaitForSeconds(waitSeconds);
         StartCoroutine(SpawnBuilding());
     }
 }

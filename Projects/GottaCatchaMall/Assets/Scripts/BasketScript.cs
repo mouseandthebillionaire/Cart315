@@ -12,6 +12,7 @@ public class BasketScript : MonoBehaviour {
 	// Start is called before the first frame update
 	void Start() {
 		score = 0;
+		// Reset Function
 	}
 
 	// Update is called once per frame
@@ -35,8 +36,14 @@ public class BasketScript : MonoBehaviour {
 	private void OnCollisionEnter2D(Collision2D other) {
 		Debug.Log(other.gameObject.tag);
 
-		if (other.gameObject.tag == "Mall") score += 1;
-		else score -= 1;
+		// Get the value of the building's points
+		int pointValue;
+		if (other.gameObject.tag == "Mall") pointValue = 1;
+		// else if(other.gameObject.tag == "Airport") pointValue = 2;
+		else pointValue = -1;
+
+		// Tell the UIManager how much to change the score by
+		UIManager.S.UpdateScore(pointValue);
         
 		Destroy(other.gameObject);
 
