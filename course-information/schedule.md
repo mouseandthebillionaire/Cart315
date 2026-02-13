@@ -3,6 +3,21 @@
 # Course Schedule
 _note: this schedule is subject to change_
 
+## Week 6
+
+### Prep Materials
+* Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapter 7, <em>Acting Like a Designer</em>
+* Watch: [How Cuphead's Booses (Try to) Kill You](https://www.youtube.com/watch?v=F8T6Ul4aHTI), from Game Maker's Toolkit
+
+### Design Journal
+- Exploration Prototype 4 - Build on Exploration Prototype 3 and then document the exploration. What did you change from last time? What specifically does this change test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
+
+- Extra Credit Journal Entry: Game Analysis - Find a game that you know well or are intrigued by. What decisions have the designers made that cause the game to be interesting? Where have they failed? Think mechanically rather than thematically. What ideas/methods/techniques do you think you could borrow for future projects?
+
+### Class Session 6: February 19
+* Topic: Getting Ideas for Games
+* Ideation Workshop
+
 ## Week 5
 
 ### Prep Materials
@@ -13,6 +28,12 @@ _note: this schedule is subject to change_
 
 ### Class Session: February 12
 * The Great SHMUPpet Caper
+
+### Files From Class
+* [Ink](https://www.inklestudios.com/ink/) for creating interactive dialogue
+* [Ink Unity Integration](https://github.com/inkle/ink-unity-integration)
+* [EZGif](https://ezgif.com) for creating gifs for your Process journal
+* [Adobe Color](https://color.adobe.com/create/color-wheel) for creating good color palettes
 
 ## Week 4
 
@@ -108,22 +129,6 @@ _note: this schedule is subject to change_
 
 
 <!--
-
-
-## Week 6
-
-### Prep Materials
-* Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapter 7, <em>Acting Like a Designer</em>
-* Watch: [How Cuphead's Booses (Try to) Kill You](https://www.youtube.com/watch?v=F8T6Ul4aHTI), from Game Maker's Toolkit
-
-### Design Journal
-- Exploration Prototype 4 - Build on Exploration Prototype 3 and then document the exploration. What did you change from last time? What specifically does this change test? What did you learn? Was it successful? Where might you go next if you wanted to keep exploring this idea?
-
-- Extra Credit Journal Entry: Game Analysis - Find a game that you know well or are intrigued by. What decisions have the designers made that cause the game to be interesting? Where have they failed? Think mechanically rather than thematically. What ideas/methods/techniques do you think you could borrow for future projects?
-
-### Class Session 6: February 19
-* Topic: Getting Ideas for Games
-* Ideation Workshop
 
 ## Week 7
 
