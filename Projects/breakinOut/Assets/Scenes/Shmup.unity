@@ -381,8 +381,8 @@ MonoBehaviour:
   columns: 3
   bs_h: 3
   bs_v: 1
-  colorA: {r: 0, g: 0, b: 0, a: 0}
-  colorB: {r: 0, g: 0, b: 0, a: 0}
+  colorA: {r: 1, g: 1, b: 1, a: 1}
+  colorB: {r: 0.8773585, g: 0.6083571, b: 0.8360196, a: 1}
   numBricks: 0
 --- !u!4 &1189494792
 Transform:

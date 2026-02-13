@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class UIManager : MonoBehaviour {
     public TMP_Text finalScore;
@@ -17,6 +18,10 @@ public class UIManager : MonoBehaviour {
     void ShowScore() {
         finalScore.text = "Final Score:" + GameManager.S.points;
         
+    }
+
+    public void StartGame() {
+        SceneManager.LoadScene("Shmup");
     }
 
     // public string GetName() {
