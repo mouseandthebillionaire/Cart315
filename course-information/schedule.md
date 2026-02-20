@@ -3,6 +3,16 @@
 # Course Schedule
 _note: this schedule is subject to change_
 
+## Week 7
+
+### Prep Materials
+* Design Journal: Iterative Prototyping 1 (Conceptualizing) - Journal about your ideation process. Include any Design Values, Precedents, and your 3 favourite ideas. These don't have to be very detailed, just a few sentences to capture the main game concept. Build out simple prototype to test one of the ideas. This can be a role, look/feel, or implementation prototype (Remember that this doesn't have to be digital!)
+
+### Class Session: February 26
+* Topic: Iteration
+* Exploration Prototype 1
+* In-class feedback session on Prototypes
+
 ## Week 6
 
 ### Prep Materials
@@ -17,6 +27,9 @@ _note: this schedule is subject to change_
 ### Class Session 6: February 19
 * Topic: Getting Ideas for Games
 * Ideation Workshop
+
+### Files From Class:
+* [Juice it or Lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg) - Video on improving UI
 
 ## Week 5
 
@@ -130,15 +143,6 @@ _note: this schedule is subject to change_
 
 <!--
 
-## Week 7
-
-### Prep Materials
-* Design Journal: Iterative Prototyping 1 (Conceptualizing) - Journal about your ideation process. Include any Design Values, Precedents, and your 3 favourite ideas. These don't have to be very detailed, just a few sentences to capture the main game concept. Build out simple prototype to test one of the ideas. This can be a role, look/feel, or implementation prototype (Remember that this doesn't have to be digital!) 
-
-### Class Session: February 26
-* Topic: Iteration
-* Exploration Prototype 1
-* In-class feedback session on Prototypes
 
 ## March 2 - March 8: Reading Week | No Class
 
