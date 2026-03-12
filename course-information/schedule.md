@@ -18,6 +18,7 @@ _note: this schedule is subject to change_
 - Design Journal: Iterative Prototyping 2 - Journal about the second stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you learn and what are the next steps?
 
 ### Class Session: March 12
+* Topic: Design Values
 * Exploration Prototype 2
 * In-class feedback session on Prototypes
 
