@@ -12,6 +12,7 @@ _note: this schedule is subject to change_
 ### Class Session: March 19
 * Iterative Prototype 3
 * In-class feedback session on Prototypes
+* One-on-one scope/planning meetings
 
 ## Week 8
 ### Prep Materials
@@ -21,6 +22,7 @@ _note: this schedule is subject to change_
 * Exploration Prototype 2
 * In-class feedback session on Prototypes
 ### Files from Class
+* [Slides](../classSlides/cart315_designValues.pdf)
 * [Games, Design and Play: A Detailed Approach to Iterative Game Design](https://learning-oreilly-com.lib-ezproxy.concordia.ca/library/view/games-design-and/9780134392233/), by Colleen Macklin and John Sharp
 
 
