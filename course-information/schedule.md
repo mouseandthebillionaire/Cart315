@@ -3,8 +3,26 @@
 # Course Schedule
 _note: this schedule is subject to change_
 
-## Week 7
+## March 2 - March 8: Reading Week | No Class
 
+## Week 9
+### Prep Materials
+- Design Journal: Iterative Prototyping 3 - Journal about the third stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you make to answer these questions? What did you learn and what are the next steps?
+
+### Class Session: March 19
+* Iterative Prototype 3
+* In-class feedback session on Prototypes
+
+## Week 8
+### Prep Materials
+- Design Journal: Iterative Prototyping 2 - Journal about the second stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you learn and what are the next steps?
+
+### Class Session: March 12
+* Exploration Prototype 2
+* In-class feedback session on Prototypes
+
+
+## Week 7
 ### Prep Materials
 * Design Journal: Iterative Prototyping 1 (Conceptualizing) - Journal about your ideation process. Include any Design Values, Precedents, and your 3 favourite ideas. These don't have to be very detailed, just a few sentences to capture the main game concept. Build out simple prototype to test one of the ideas. This can be a role, look/feel, or implementation prototype (Remember that this doesn't have to be digital!)
 
@@ -14,7 +32,6 @@ _note: this schedule is subject to change_
 * In-class feedback session on Prototypes
 
 ## Week 6
-
 ### Prep Materials
 * Read: [IGDPAD](https://concordiauniversity.on.worldcat.org/oclc/1340042737), Chapter 7, <em>Acting Like a Designer</em>
 * Watch: [How Cuphead's Booses (Try to) Kill You](https://www.youtube.com/watch?v=F8T6Ul4aHTI), from Game Maker's Toolkit
@@ -142,29 +159,6 @@ _note: this schedule is subject to change_
 
 
 <!--
-
-
-## March 2 - March 8: Reading Week | No Class
-
-## Week 8
-### Prep Materials
-- Design Journal: Iterative Prototyping 2 - Journal about the second stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you learn and what are the next steps?
-
-### Class Session: March 12
-* Exploration Prototype 2
-* In-class feedback session on Prototypes
-* Group meetings with me for 
-
-### Files From Class
-* [bfxr](https://www.bfxr.net) and [sfxr](https://sfxr.me/) for sound effects
-
-## Week 9
-### Prep Materials
-- Design Journal: Iterative Prototyping 3 - Journal about the third stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you make to answer these questions? What did you learn and what are the next steps?
-
-### Class Session: March 19
-* Iterative Prototype 3
-* In-class feedback session on Prototypes
 
 
 ## Week 10
