@@ -7,7 +7,7 @@ _note: this schedule is subject to change_
 
 ## Week 9
 ### Prep Materials
-- Design Journal: Iterative Prototyping 3 - Journal about the third stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you make to answer these questions? What did you learn and what are the next steps?
+- Design Journal: Iterative Prototyping 3 - Journal about the third stage of your prototyping process. What is your core design value? (Read Macklin/Sharp's chapter on [Design Values](https://ptgmedia.pearsoncmg.com/images/9780134392073/samplepages/9780134392073.pdf) if you need a refresher on this) For this prototype, what specific question are you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you make to answer these questions? What did you learn and what are the next steps?
 
 ### Class Session: March 19
 * Iterative Prototype 3
@@ -16,11 +16,12 @@ _note: this schedule is subject to change_
 ## Week 8
 ### Prep Materials
 - Design Journal: Iterative Prototyping 2 - Journal about the second stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you learn and what are the next steps?
-
 ### Class Session: March 12
 * Topic: Design Values
 * Exploration Prototype 2
 * In-class feedback session on Prototypes
+### Files from Class
+* [Games, Design and Play: A Detailed Approach to Iterative Game Design](https://learning-oreilly-com.lib-ezproxy.concordia.ca/library/view/games-design-and/9780134392233/), by Colleen Macklin and John Sharp
 
 
 ## Week 7
