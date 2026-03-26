@@ -3,7 +3,17 @@
 # Course Schedule
 _note: this schedule is subject to change_
 
-## March 2 - March 8: Reading Week | No Class
+## Week 10
+### Prep Materials
+* Design Journal: Iterative Prototyping 4 - Journal about the third stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you make to answer these questions? What did you learn and what are the next steps?
+
+### Class Session: March 26
+* Iterative Prototype 4
+- Topic: Presentations
+
+### Materials from Class
+- [Slides](../classSlides/cart315_pitching.pdf)
+- [Pitch Template (pdf)](../classSlides/cart315_pitchTemplate.pdf)
 
 ## Week 9
 ### Prep Materials
@@ -13,6 +23,8 @@ _note: this schedule is subject to change_
 * Iterative Prototype 3
 * In-class feedback session on Prototypes
 * One-on-one scope/planning meetings
+
+## March 2 - March 8: Reading Week | No Class
 
 ## Week 8
 ### Prep Materials
@@ -165,17 +177,7 @@ _note: this schedule is subject to change_
 <!--
 
 
-## Week 10
-### Prep Materials
-* Design Journal: Iterative Prototyping 4 - Journal about the third stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you make to answer these questions? What did you learn and what are the next steps?
 
-### Class Session: March 26
-* Iterative Prototype 4
-- Topic: Presentations
-
-### Materials from Class
-- [Slides](../classSlides/cart315_pitching.pdf)
-- [Pitch Template (pdf)](../classSlides/cart315_pitchTemplate.pdf)
 
 ## Week 11
 ### Prep Materials
