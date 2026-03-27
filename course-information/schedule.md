@@ -7,7 +7,7 @@ _note: this schedule is subject to change_
 ### Prep Materials
 - Design Journal: Prototyping Stage 4 - Document and reflect on the entire design process
 ### Class Session: Mar 27 - April 8
-- [Book an Appointment through Calendly](https://calendly.com/matt-mouseandthebillionaire/30min) to meet with me
+- No class session on April 2. [Book an Appointment through Calendly](https://calendly.com/matt-mouseandthebillionaire/30min) to meet with me
 
 ## Week 10
 ### Prep Materials
