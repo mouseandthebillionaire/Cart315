@@ -3,6 +3,12 @@
 # Course Schedule
 _note: this schedule is subject to change_
 
+## Week 11
+### Prep Materials
+- Design Journal: Prototyping Stage 4 - Document and reflect on the entire design process
+### Class Session: Mar 27 - April 8
+- [Book an Appointment through Calendly](https://calendly.com/matt-mouseandthebillionaire/30min) to meet with me
+
 ## Week 10
 ### Prep Materials
 * Design Journal: Iterative Prototyping 4 - Journal about the third stage of your prototyping process. What was your idea? What specific questions where you trying to answer (goals)? Was it a look/feel, role, implementation prototype? What fidelity levels are you dealing with? What did you make to answer these questions? What did you learn and what are the next steps?
@@ -175,16 +181,6 @@ _note: this schedule is subject to change_
 
 
 <!--
-
-
-
-
-## Week 11
-### Prep Materials
-- Design Journal: Prototyping Stage 4 - Document and reflect on the entire design process
-### Class Session: April 2
-- Final Playtesting and Work Session
-
 
 ## Week 12
 ### Prep Materials
