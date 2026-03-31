@@ -5,7 +5,7 @@ _note: this schedule is subject to change_
 
 ## Week 11
 ### Prep Materials
-- Design Journal: Prototyping Stage 4 - Document and reflect on the entire design process
+- Design Journal: Prototyping Stage 4 - Journal about the fourth stage of your prototyping process. What specific questions where you trying to answer (design goals)? What did you learn and what are the next steps? Additionally, attempt to craft a succinct one sentence elevator pitch about your game. What about your game is unique and exciting? 
 ### Class Session: Mar 27 - April 8
 - No class session on April 2. [Book an Appointment through Calendly](https://calendly.com/matt-mouseandthebillionaire/30min) to meet with me
 
