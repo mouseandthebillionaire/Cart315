@@ -3,6 +3,12 @@
 # Course Schedule
 _note: this schedule is subject to change_
 
+## Week 12
+### Prep Materials
+- Design Journal: Final Stage - Explain your final prototype. How did you integrate your previous prototypes into this final experiment? Are you leaning on implementation, look/feel, or role prototypes more? Where are you focusing your efforts? What is working and where do you have additional concerns and/or questions? 
+### Class Session: April 9
+- Prototype Play Party
+
 ## Week 11
 ### Prep Materials
 - Design Journal: Prototyping Stage 4 - Journal about the fourth stage of your prototyping process. What specific questions where you trying to answer (design goals)? What did you learn and what are the next steps? Additionally, attempt to craft a succinct one sentence elevator pitch about your game. What about your game is unique and exciting? 
